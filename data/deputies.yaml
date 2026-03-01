@@ -3196,12 +3196,12 @@ members:
     country: France
     departement_name: Loiret
     departement_num: '45'
-    email: Stephanie.Rist@assemblee-nationale.fr
-    first_name: "St\xE9phanie"
+    email: marie-philippe.lubet@assemblee-nationale.fr
+    first_name: Marie-Philippe
     group_abv: EPR
     group_name: "Ensemble pour la R\xE9publique"
-    last_name: Rist
-    ref: PA720066
+    last_name: Lubet
+    ref: PA879389
   '4502':
     circonscription_code: '4502'
     circonscription_name: "2\xE8me circonscription du Loiret"
@@ -8090,4 +8090,4 @@ members:
     ref: PA842299
 metadata:
   count: 577
-  last_updated: '2026-02-04T00:28:51.308212'
+  last_updated: '2026-03-01T05:11:22.187319'
