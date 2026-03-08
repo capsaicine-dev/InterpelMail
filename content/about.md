@@ -10,7 +10,7 @@ Il permet d'envoyer rapidement un email votre député.e sur des sujets d'intér
 ## Comment ça marche ?
 
 1. Sélectionnez une campagne qui vous tient à coeur
-2. Entrez votre adresse pour identifier votre député.e ou sélectionner un département
+2. Entrez votre adresse pour identifier votre élu-e ou sélectionner un département
 3. Personnalisez le message proposé
 4. Envoyez l'email via votre client mail habituel
 
@@ -59,4 +59,4 @@ Pour toute question ou suggestion : [Ouvrir une issue GitHub](https://github.com
 
 ---
 
-*Dernière mise à jour : Janvier 2026*
+*Dernière mise à jour : Mars 2026*

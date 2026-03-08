@@ -3,14 +3,16 @@ let circonscriptionsData = null;
 let selectedAddress = null;
 let selectedElectedKey = null;
 let selectedElected = [];
+let groupToRemove = [];
 let locationInformation = null;
 let institutionInformation = null;
 
 let suggestionsTimer = null;
 
-const electedType = {}
+const electedType = {};
 const addressData = {};
 const departements = new Map();
+const organes = new Map();
 
 document.addEventListener("DOMContentLoaded", async function() {
 
@@ -26,6 +28,8 @@ document.addEventListener("DOMContentLoaded", async function() {
 	// construct additional maps for selection
 	setDepartementsMap();
 	setDepartementsSelect("deputies");
+	setOrganesMap();
+	setOrganesSelect("deputies");
 	electedType["deputies"] = window.siteData.deputies;
 	electedType["senators"] = window.siteData.senators;
 	electedType["europals"] = window.siteData.europals;
@@ -55,6 +59,7 @@ document.addEventListener("DOMContentLoaded", async function() {
 				if (btn.dataset.value) {
 					selectedElectedKey = btn.dataset.value;
 					setDepartementsSelect(selectedElectedKey);
+					setOrganesSelect(selectedElectedKey);
 				}
 			});
 		}
@@ -65,6 +70,10 @@ document.addEventListener("DOMContentLoaded", async function() {
 	document.getElementById("find-elected-subdivision").addEventListener("click", function() {
 		resetData();
 		findElectedFromSubdivision(document.getElementById("deps-select").value);
+	});
+	document.getElementById("find-elected-organes").addEventListener("click", function() {
+		resetData();
+		findElectedFromOrganes(document.getElementById("organes-select").value);
 	});
 
 	document.getElementById("address").addEventListener("input", function(e) {
@@ -131,6 +140,11 @@ function setDepartementsSelect(key) {
 	while (deps_select.lastElementChild) {
 		deps_select.removeChild(deps_select.lastElementChild);
 	}
+
+	if (!departements.get(key)) {
+		return;
+	}
+
 	departements
 		.get(key)
 		.forEach((name, num, _) => {
@@ -142,6 +156,44 @@ function setDepartementsSelect(key) {
 		);
 	if (departements.get(key).has(oldValue)) {
 		deps_select.value = oldValue;
+	}
+}
+
+function setOrganesMap() {
+	const organesUnsortedDeputies = new Map();
+	Object.values(window.siteData.deputies).forEach((deputy) => {
+		deputy.organes.forEach((o) => {
+			if (o && !organesUnsortedDeputies.get(o.abg)) {
+				organesUnsortedDeputies.set(o.abg, o.name);
+			}
+		});
+	});
+
+	organes.set("deputies", new Map([...organesUnsortedDeputies].sort((a, b) => a[1].localeCompare(b[1]))));
+}
+
+function setOrganesSelect(key) {
+	const organes_select = document.getElementById("organes-select");
+	const oldValue = organes_select.value;
+	while (organes_select.lastElementChild) {
+		organes_select.removeChild(organes_select.lastElementChild);
+	}
+
+	if (!organes.get(key)) {
+		return;
+	}
+
+	organes
+		.get(key)
+		.forEach((abg, abv, _) => {
+			const option = document.createElement("option");
+			option.value = abv;
+			option.textContent = abg;
+			organes_select.appendChild(option);
+		}
+		);
+	if (organes.get(key).has(oldValue)) {
+		organes_select.value = oldValue;
 	}
 }
 
@@ -267,7 +319,6 @@ function displayElected(electeds) {
 		electedInfo.insertAdjacentElement("beforeend", document.createElement("br"));
 	});
 
-	selectedElected = electeds;
 	electedInfo.style.display = "block";
 	sendButton.style.display = "block";
 }
@@ -310,11 +361,11 @@ async function findElectedFromAddress() {
 		switch (selectedElectedKey) {
 			case "deputies":
 				code = foundDivision.properties.codeCirconscription;
-				electeds = [allElecteds[code]];
+				electeds = Object.values(allElecteds).filter(elected => elected.circonscription_code == code);
 				if (!electeds || electeds.length == 0) {
 					throw new Error(`Député.e non trouvé.e pour la circonscription ${code}`);
 				}
-				locationInformation = `la ${electeds[0].circonscription_name}`;
+				locationInformation = `Habitant-e de la ${electeds[0].circonscription_name}`;
 				institutionInformation = "l'assemblée nationale";
 				break;
 			case "senators":
@@ -323,7 +374,7 @@ async function findElectedFromAddress() {
 				if (!electeds || electeds.length == 0) {
 					throw new Error(`Sénateur.rices non trouvé.es pour le département ${code}`);
 				}
-				locationInformation = electeds[0].departement_name;
+				locationInformation = `Habitant-e de ${electeds[0].departement_name}`;
 				institutionInformation = "le sénat";
 				break;
 			case "europals":
@@ -333,7 +384,9 @@ async function findElectedFromAddress() {
 				throw new Error(`Invalid key ${selectedElectedKey}`);
 		}
 
-		if (electeds.length > 1) createGroupFilterForDepartement(electeds, code);
+		if (electeds.length > 1) createGroupFilter(electeds);
+
+		selectedElected = electeds;
 		displayElected(electeds);
 	} catch (error) {
 		console.error("Error:", error);
@@ -351,10 +404,10 @@ function findElectedFromSubdivision(depKey) {
 	const electeds = Object.values(allElecteds).filter(elected => elected.departement_num == depKey);
 
 	if (!electeds || electeds.length == 0) {
-		throw new Error(`Elu.es non trouvé pour le département ${depKey}`);
+		throw new Error(`Elu.es non trouvé.es pour le département ${depKey}`);
 	}
 
-	locationInformation = electeds[0].departement_name;
+	locationInformation = `Habitant-e de ${electeds[0].departement_name}`;
 
 	switch (selectedElectedKey) {
 		case "deputies":
@@ -370,11 +423,49 @@ function findElectedFromSubdivision(depKey) {
 			throw new Error(`Invalid key ${selectedElectedKey}`);
 	}
 
-	if (electeds.length > 1) createGroupFilterForDepartement(electeds, depKey);
+	if (electeds.length > 1) createGroupFilter(electeds);
+
+	selectedElected = electeds;
 	displayElected(electeds);
 }
 
-function createGroupFilterForDepartement(electeds, depKey) {
+function findElectedFromOrganes(orgKey) {
+
+	if (!orgKey) {
+		alert("Veuillez sélectionner un organe valide.");
+		return;
+	}
+	const allElecteds = electedType[selectedElectedKey];
+	const electeds = Object.values(allElecteds)
+		.filter(elected => elected.organes.map(o => o.abg).includes(orgKey));
+
+	if (!electeds || electeds.length == 0) {
+		throw new Error(`Elu.es non trouvé.es pour l'organe ${orgKey}`);
+	}
+
+	locationInformation = `Concerné.e par le travail de la ${organes.get(selectedElectedKey).get(orgKey)}`;
+
+	switch (selectedElectedKey) {
+		case "deputies":
+			institutionInformation = "l'assemblée nationale";
+			break;
+		case "senators":
+			institutionInformation = "le sénat";
+			break;
+		case "europals":
+			break;
+
+		default:
+			throw new Error(`Invalid key ${selectedElectedKey}`);
+	}
+
+	if (electeds.length > 1) createGroupFilter(electeds);
+
+	selectedElected = electeds;
+	displayElected(electeds);
+}
+
+function createGroupFilter(electeds) {
 	// find all groups
 	const groups = new Map();
 	Object.values(electeds).forEach(elected => {
@@ -394,6 +485,8 @@ function createGroupFilterForDepartement(electeds, depKey) {
 		return;
 	}
 
+	groupToRemove = new Array();
+
 	// for each group create a filter
 	groups
 		.forEach((name, abv, _) => {
@@ -405,7 +498,7 @@ function createGroupFilterForDepartement(electeds, depKey) {
 			input.checked = "true";
 			input.addEventListener("change", function() {
 				if (this.checked) {
-					AddGroup(depKey, this.value);
+					AddGroup(this.value);
 				} else {
 					RemoveGroup(this.value);
 				}
@@ -432,16 +525,16 @@ function createTooltipForGroup(groupAbv, groupName) {
 }
 
 function RemoveGroup(groupKey) {
-	const electeds = selectedElected.filter(elected => elected.group_abv != groupKey);
+	groupToRemove.push(groupKey);
+	const electeds = selectedElected.filter(elected => !groupToRemove.includes(elected.group_abv));
 	displayElected(electeds);
 }
 
-function AddGroup(depKey, groupKey) {
-	const allElecteds = electedType[selectedElectedKey];
-	const newElecteds = Object.values(allElecteds)
-		.filter(elected => elected.group_abv == groupKey && elected.departement_num == depKey);
-
-	displayElected(selectedElected.concat(newElecteds));
+function AddGroup(groupKey) {
+	const indexKey = groupToRemove.indexOf(groupKey)
+	groupToRemove.splice(indexKey, 1);
+	const electeds = selectedElected.filter(elected => !groupToRemove.includes(elected.group_abv));
+	displayElected(electeds);
 }
 
 function sendEmail() {
@@ -457,17 +550,22 @@ function sendEmail() {
 		return;
 	}
 
-	const selectedElectedWithMail = selectedElected.filter(elected => elected.email);
+	const selectedElectedWithMail = selectedElected
+		.filter(elected => elected.email)
+		.filter(elected => !groupToRemove.includes(elected.group_abv));
 	if (selectedElectedWithMail.length == 0) {
 		alert("Veuillez sélectionner au moins un.e élu.e ayant une adresse e-mail connue");
 		return;
 	}
+	else if (selectedElectedWithMail.length >= 10) {
+		alert("Vous allez envoyer un e-mail à plus de 10 élu-es, nous vous conseillons de faire un tri afin de rendre votre e-mail plus pertinent et ciblé.");
+	}
 
 	const campaign = window.siteData.campaigns[campaignKey];
-	console.log(selectedElectedWithMail);
-	const names = selectedElectedWithMail.map(elected => `${elected.civ} ${elected.first_name} ${elected.last_name}`).join(", ");
+	const names = selectedElectedWithMail
+		.map(elected => `${elected.civ} ${elected.first_name} ${elected.last_name}`).join(", ");
 	const body = campaign.body
-		.replace("[CIRCONSCRIPTION]", locationInformation) // temp
+		.replace("[RAISON]", locationInformation)
 		.replace("[ELU]", names)
 		.replace("[INSTITUTION]", institutionInformation);
 
