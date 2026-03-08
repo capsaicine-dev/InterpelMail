@@ -12,6 +12,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Borchia
+    organes: []
     ref: '101039'
   '101585':
     circonscription_code: ''
@@ -27,6 +28,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Fuglsang
+    organes: []
     ref: '101585'
   '103246':
     circonscription_code: ''
@@ -41,6 +43,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Zijlstra
+    organes: []
     ref: '103246'
   '103381':
     circonscription_code: ''
@@ -55,6 +58,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Reintke
+    organes: []
     ref: '103381'
   '106936':
     circonscription_code: ''
@@ -69,6 +73,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Freund
+    organes: []
     ref: '106936'
   '107212':
     circonscription_code: ''
@@ -83,6 +88,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Novakov
+    organes: []
     ref: '107212'
   '110673':
     circonscription_code: ''
@@ -97,6 +103,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Pedro
+    organes: []
     ref: '110673'
   '111412':
     circonscription_code: ''
@@ -111,6 +118,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: "S\xF8vndal"
+    organes: []
     ref: '111412'
   '112744':
     circonscription_code: ''
@@ -126,6 +134,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Picula
+    organes: []
     ref: '112744'
   '112747':
     circonscription_code: ''
@@ -141,6 +150,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Jerkovi\u0107"
+    organes: []
     ref: '112747'
   '112748':
     circonscription_code: ''
@@ -156,6 +166,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Borzan
+    organes: []
     ref: '112748'
   '113523':
     circonscription_code: ''
@@ -170,6 +181,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Agius
+    organes: []
     ref: '113523'
   '118859':
     circonscription_code: ''
@@ -184,6 +196,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Metsola
+    organes: []
     ref: '118859'
   '118949':
     circonscription_code: ''
@@ -198,6 +211,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Kova\u0159\xEDk"
+    organes: []
     ref: '118949'
   '119435':
     circonscription_code: ''
@@ -212,6 +226,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Stier
+    organes: []
     ref: '119435'
   '119652':
     circonscription_code: ''
@@ -227,6 +242,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Andriukaitis
+    organes: []
     ref: '119652'
   '122978':
     circonscription_code: ''
@@ -242,6 +258,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Homs Ginel
+    organes: []
     ref: '122978'
   '123562':
     circonscription_code: ''
@@ -256,6 +273,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Weimers
+    organes: []
     ref: '123562'
   '124691':
     circonscription_code: ''
@@ -271,6 +289,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Mavrides
+    organes: []
     ref: '124691'
   '124700':
     circonscription_code: ''
@@ -285,6 +304,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Toom
+    organes: []
     ref: '124700'
   '124701':
     circonscription_code: ''
@@ -299,6 +319,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Niedermayer
+    organes: []
     ref: '124701'
   '124713':
     circonscription_code: ''
@@ -313,6 +334,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Zdechovsk\xFD"
+    organes: []
     ref: '124713'
   '124715':
     circonscription_code: ''
@@ -327,6 +349,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "H\xF6lv\xE9nyi"
+    organes: []
     ref: '124715'
   '124722':
     circonscription_code: ''
@@ -342,6 +365,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Moln\xE1r"
+    organes: []
     ref: '124722'
   '124726':
     circonscription_code: ''
@@ -356,6 +380,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Virkkunen
+    organes: []
     ref: '124726'
   '124736':
     circonscription_code: ''
@@ -370,6 +395,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: "Kyll\xF6nen"
+    organes: []
     ref: '124736'
   '124760':
     circonscription_code: ''
@@ -384,6 +410,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Bay
+    organes: []
     ref: '124760'
   '124766':
     circonscription_code: ''
@@ -398,6 +425,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "Au\u0161trevi\u010Dius"
+    organes: []
     ref: '124766'
   '124784':
     circonscription_code: ''
@@ -413,6 +441,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Nica
+    organes: []
     ref: '124784'
   '124785':
     circonscription_code: ''
@@ -428,6 +457,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Grapini
+    organes: []
     ref: '124785'
   '124795':
     circonscription_code: ''
@@ -442,6 +472,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Tosi
+    organes: []
     ref: '124795'
   '124799':
     circonscription_code: ''
@@ -457,6 +488,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Moretti
+    organes: []
     ref: '124799'
   '124802':
     circonscription_code: ''
@@ -471,6 +503,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Mure\u015Fan"
+    organes: []
     ref: '124802'
   '124806':
     circonscription_code: ''
@@ -485,6 +518,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: McAllister
+    organes: []
     ref: '124806'
   '124807':
     circonscription_code: ''
@@ -499,6 +533,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Gieseke
+    organes: []
     ref: '124807'
   '124808':
     circonscription_code: ''
@@ -513,6 +548,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Lins
+    organes: []
     ref: '124808'
   '124813':
     circonscription_code: ''
@@ -527,6 +563,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Tamburrano
+    organes: []
     ref: '124813'
   '124828':
     circonscription_code: ''
@@ -541,6 +578,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Martusciello
+    organes: []
     ref: '124828'
   '124834':
     circonscription_code: ''
@@ -555,6 +593,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Sonneborn
+    organes: []
     ref: '124834'
   '124836':
     circonscription_code: ''
@@ -570,6 +609,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Noichl
+    organes: []
     ref: '124836'
   '124846':
     circonscription_code: ''
@@ -585,6 +625,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Picierno
+    organes: []
     ref: '124846'
   '124850':
     circonscription_code: ''
@@ -599,6 +640,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Radev
+    organes: []
     ref: '124850'
   '124858':
     circonscription_code: ''
@@ -613,6 +655,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: De Masi
+    organes: []
     ref: '124858'
   '124861':
     circonscription_code: ''
@@ -627,6 +670,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Chinnici
+    organes: []
     ref: '124861'
   '124866':
     circonscription_code: ''
@@ -641,6 +685,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Kyuchyuk
+    organes: []
     ref: '124866'
   '124867':
     circonscription_code: ''
@@ -656,6 +701,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Benifei
+    organes: []
     ref: '124867'
   '124875':
     circonscription_code: ''
@@ -670,6 +716,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Vistisen
+    organes: []
     ref: '124875'
   '124877':
     circonscription_code: ''
@@ -684,6 +731,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Wi\u015Bniewska"
+    organes: []
     ref: '124877'
   '124884':
     circonscription_code: ''
@@ -698,6 +746,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Z\u0142otowski"
+    organes: []
     ref: '124884'
   '124893':
     circonscription_code: ''
@@ -712,6 +761,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Zdrojewski
+    organes: []
     ref: '124893'
   '124895':
     circonscription_code: ''
@@ -726,6 +776,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Hetman
+    organes: []
     ref: '124895'
   '124973':
     circonscription_code: ''
@@ -740,6 +791,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Annemans
+    organes: []
     ref: '124973'
   '124984':
     circonscription_code: ''
@@ -754,6 +806,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Boylan
+    organes: []
     ref: '124984'
   '124985':
     circonscription_code: ''
@@ -768,6 +821,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Flanagan
+    organes: []
     ref: '124985'
   '125001':
     circonscription_code: ''
@@ -782,6 +836,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Vilimsky
+    organes: []
     ref: '125001'
   '125012':
     circonscription_code: ''
@@ -796,6 +851,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Buda
+    organes: []
     ref: '125012'
   '125023':
     circonscription_code: ''
@@ -810,6 +866,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Hazekamp
+    organes: []
     ref: '125023'
   '125027':
     circonscription_code: ''
@@ -824,6 +881,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Gonz\xE1lez Pons"
+    organes: []
     ref: '125027'
   '125042':
     circonscription_code: ''
@@ -839,6 +897,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "L\xF3pez"
+    organes: []
     ref: '125042'
   '125046':
     circonscription_code: ''
@@ -854,6 +913,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Fern\xE1ndez"
+    organes: []
     ref: '125046'
   '125052':
     circonscription_code: ''
@@ -868,6 +928,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Girauta Vidal
+    organes: []
     ref: '125052'
   '125065':
     circonscription_code: ''
@@ -882,6 +943,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Vozemberg-Vrionidi
+    organes: []
     ref: '125065'
   '125068':
     circonscription_code: ''
@@ -896,6 +958,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Kefalogiannis
+    organes: []
     ref: '125068'
   '125093':
     circonscription_code: ''
@@ -910,6 +973,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Papadakis
+    organes: []
     ref: '125093'
   '125104':
     circonscription_code: ''
@@ -924,6 +988,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Tomc
+    organes: []
     ref: '125104'
   '125106':
     circonscription_code: ''
@@ -938,6 +1003,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Van Overtveldt
+    organes: []
     ref: '125106'
   '125204':
     circonscription_code: ''
@@ -952,6 +1018,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Gim\xE9nez Larraz"
+    organes: []
     ref: '125204'
   '125325':
     circonscription_code: ''
@@ -966,6 +1033,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Smit
+    organes: []
     ref: '125325'
   '125670':
     circonscription_code: ''
@@ -980,6 +1048,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Salini
+    organes: []
     ref: '125670'
   '126699':
     circonscription_code: ''
@@ -994,6 +1063,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Pennelle
+    organes: []
     ref: '126699'
   '127766':
     circonscription_code: ''
@@ -1008,6 +1078,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Saramo
+    organes: []
     ref: '127766'
   '128483':
     circonscription_code: ''
@@ -1022,6 +1093,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Buchheit
+    organes: []
     ref: '128483'
   '129073':
     circonscription_code: ''
@@ -1036,6 +1108,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Paet
+    organes: []
     ref: '129073'
   '1294':
     circonscription_code: ''
@@ -1051,6 +1124,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Di Rupo
+    organes: []
     ref: '1294'
   '130100':
     circonscription_code: ''
@@ -1065,6 +1139,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Vautmans
+    organes: []
     ref: '130100'
   '130881':
     circonscription_code: ''
@@ -1079,6 +1154,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Andriese
+    organes: []
     ref: '130881'
   '131580':
     circonscription_code: ''
@@ -1093,6 +1169,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Bardella
+    organes: []
     ref: '131580'
   '135511':
     circonscription_code: ''
@@ -1107,6 +1184,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Hayer
+    organes: []
     ref: '135511'
   '183916':
     circonscription_code: ''
@@ -1121,6 +1199,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Geese
+    organes: []
     ref: '183916'
   '185341':
     circonscription_code: ''
@@ -1135,6 +1214,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Zovko
+    organes: []
     ref: '185341'
   '185619':
     circonscription_code: ''
@@ -1150,6 +1230,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "W\xF6lken"
+    organes: []
     ref: '185619'
   '185771':
     circonscription_code: ''
@@ -1164,6 +1245,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Vandendriessche
+    organes: []
     ref: '185771'
   '187917':
     circonscription_code: ''
@@ -1178,6 +1260,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Botenga
+    organes: []
     ref: '187917'
   '188096':
     circonscription_code: ''
@@ -1192,6 +1275,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Ratas
+    organes: []
     ref: '188096'
   '188945':
     circonscription_code: ''
@@ -1206,6 +1290,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Radtke
+    organes: []
     ref: '188945'
   '189065':
     circonscription_code: ''
@@ -1220,6 +1305,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Jamet
+    organes: []
     ref: '189065'
   '190464':
     circonscription_code: ''
@@ -1234,6 +1320,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Waitz
+    organes: []
     ref: '190464'
   '190517':
     circonscription_code: ''
@@ -1248,6 +1335,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Schirdewan
+    organes: []
     ref: '190517'
   '190574':
     circonscription_code: ''
@@ -1262,6 +1350,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Froelich
+    organes: []
     ref: '190574'
   '190713':
     circonscription_code: ''
@@ -1276,6 +1365,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Mandl
+    organes: []
     ref: '190713'
   '1909':
     circonscription_code: ''
@@ -1291,6 +1381,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Lange
+    organes: []
     ref: '1909'
   '191693':
     circonscription_code: ''
@@ -1305,6 +1396,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Katainen
+    organes: []
     ref: '191693'
   '1917':
     circonscription_code: ''
@@ -1319,6 +1411,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Ferber
+    organes: []
     ref: '1917'
   '192254':
     circonscription_code: ''
@@ -1333,6 +1426,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Ehlers
+    organes: []
     ref: '192254'
   '1927':
     circonscription_code: ''
@@ -1347,6 +1441,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Liese
+    organes: []
     ref: '1927'
   '193292':
     circonscription_code: ''
@@ -1361,6 +1456,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Metz
+    organes: []
     ref: '193292'
   '193419':
     circonscription_code: ''
@@ -1375,6 +1471,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Hansen
+    organes: []
     ref: '193419'
   '197391':
     circonscription_code: ''
@@ -1390,6 +1487,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Fritzon
+    organes: []
     ref: '197391'
   '197392':
     circonscription_code: ''
@@ -1405,6 +1503,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Incir
+    organes: []
     ref: '197392'
   '197395':
     circonscription_code: ''
@@ -1419,6 +1518,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Kuhnke
+    organes: []
     ref: '197395'
   '197398':
     circonscription_code: ''
@@ -1433,6 +1533,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Holmgren
+    organes: []
     ref: '197398'
   '197400':
     circonscription_code: ''
@@ -1447,6 +1548,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Al-Sahlani
+    organes: []
     ref: '197400'
   '197401':
     circonscription_code: ''
@@ -1461,6 +1563,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Karlsbro
+    organes: []
     ref: '197401'
   '197402':
     circonscription_code: ''
@@ -1475,6 +1578,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Tob\xE9"
+    organes: []
     ref: '197402'
   '197403':
     circonscription_code: ''
@@ -1490,6 +1594,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Agius Saliba
+    organes: []
     ref: '197403'
   '197404':
     circonscription_code: ''
@@ -1504,6 +1609,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Polfj\xE4rd"
+    organes: []
     ref: '197404'
   '197405':
     circonscription_code: ''
@@ -1518,6 +1624,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Warborn
+    organes: []
     ref: '197405'
   '197406':
     circonscription_code: ''
@@ -1532,6 +1639,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Kokalari
+    organes: []
     ref: '197406'
   '197408':
     circonscription_code: ''
@@ -1546,6 +1654,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Bentele
+    organes: []
     ref: '197408'
   '197410':
     circonscription_code: ''
@@ -1560,6 +1669,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Berger
+    organes: []
     ref: '197410'
   '197412':
     circonscription_code: ''
@@ -1574,6 +1684,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Herbst
+    organes: []
     ref: '197412'
   '197413':
     circonscription_code: ''
@@ -1588,6 +1699,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Ressler
+    organes: []
     ref: '197413'
   '197414':
     circonscription_code: ''
@@ -1602,6 +1714,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Fourlas
+    organes: []
     ref: '197414'
   '197416':
     circonscription_code: ''
@@ -1616,6 +1729,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Georgiou
+    organes: []
     ref: '197416'
   '197417':
     circonscription_code: ''
@@ -1630,6 +1744,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Sokol
+    organes: []
     ref: '197417'
   '197421':
     circonscription_code: ''
@@ -1644,6 +1759,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Wiseler-Lima
+    organes: []
     ref: '197421'
   '197422':
     circonscription_code: ''
@@ -1658,6 +1774,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Schneider
+    organes: []
     ref: '197422'
   '197425':
     circonscription_code: ''
@@ -1672,6 +1789,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Seekatz
+    organes: []
     ref: '197425'
   '197426':
     circonscription_code: ''
@@ -1686,6 +1804,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Simon
+    organes: []
     ref: '197426'
   '197429':
     circonscription_code: ''
@@ -1700,6 +1819,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Walsmann
+    organes: []
     ref: '197429'
   '197430':
     circonscription_code: ''
@@ -1714,6 +1834,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Eroglu
+    organes: []
     ref: '197430'
   '197432':
     circonscription_code: ''
@@ -1728,6 +1849,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Oetjen
+    organes: []
     ref: '197432'
   '197433':
     circonscription_code: ''
@@ -1743,6 +1865,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Barley
+    organes: []
     ref: '197433'
   '197435':
     circonscription_code: ''
@@ -1758,6 +1881,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Bischoff
+    organes: []
     ref: '197435'
   '197439':
     circonscription_code: ''
@@ -1772,6 +1896,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Boeselager
+    organes: []
     ref: '197439'
   '197440':
     circonscription_code: ''
@@ -1787,6 +1912,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Burkhardt
+    organes: []
     ref: '197440'
   '197441':
     circonscription_code: ''
@@ -1802,6 +1928,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Mati\u0107"
+    organes: []
     ref: '197441'
   '197443':
     circonscription_code: ''
@@ -1816,6 +1943,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "Gl\xFCck"
+    organes: []
     ref: '197443'
   '197444':
     circonscription_code: ''
@@ -1830,6 +1958,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Hahn
+    organes: []
     ref: '197444'
   '197445':
     circonscription_code: ''
@@ -1844,6 +1973,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "K\xF6rner"
+    organes: []
     ref: '197445'
   '197447':
     circonscription_code: ''
@@ -1858,6 +1988,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Joveva
+    organes: []
     ref: '197447'
   '197448':
     circonscription_code: ''
@@ -1872,6 +2003,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Andresen
+    organes: []
     ref: '197448'
   '197449':
     circonscription_code: ''
@@ -1886,6 +2018,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Bloss
+    organes: []
     ref: '197449'
   '197460':
     circonscription_code: ''
@@ -1900,6 +2033,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Lagodinsky
+    organes: []
     ref: '197460'
   '197461':
     circonscription_code: ''
@@ -1914,6 +2048,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Langensiepen
+    organes: []
     ref: '197461'
   '197462':
     circonscription_code: ''
@@ -1928,6 +2063,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Marquardt
+    organes: []
     ref: '197462'
   '197463':
     circonscription_code: ''
@@ -1942,6 +2078,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Chastel
+    organes: []
     ref: '197463'
   '197464':
     circonscription_code: ''
@@ -1956,6 +2093,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Neumann
+    organes: []
     ref: '197464'
   '197466':
     circonscription_code: ''
@@ -1970,6 +2108,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Paulus
+    organes: []
     ref: '197466'
   '197468':
     circonscription_code: ''
@@ -1984,6 +2123,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Demirel
+    organes: []
     ref: '197468'
   '197469':
     circonscription_code: ''
@@ -1998,6 +2138,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Kanko
+    organes: []
     ref: '197469'
   '197470':
     circonscription_code: ''
@@ -2012,6 +2153,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Bricmont
+    organes: []
     ref: '197470'
   '197473':
     circonscription_code: ''
@@ -2026,6 +2168,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Doleschal
+    organes: []
     ref: '197473'
   '197475':
     circonscription_code: ''
@@ -2040,6 +2183,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Anderson
+    organes: []
     ref: '197475'
   '197481':
     circonscription_code: ''
@@ -2054,6 +2198,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Krah
+    organes: []
     ref: '197481'
   '197490':
     circonscription_code: ''
@@ -2068,6 +2213,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Adamowicz
+    organes: []
     ref: '197490'
   '197491':
     circonscription_code: ''
@@ -2083,6 +2229,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Kaljurand
+    organes: []
     ref: '197491'
   '197492':
     circonscription_code: ''
@@ -2097,6 +2244,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Ar\u0142ukowicz"
+    organes: []
     ref: '197492'
   '197493':
     circonscription_code: ''
@@ -2111,6 +2259,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Madison
+    organes: []
     ref: '197493'
   '197494':
     circonscription_code: ''
@@ -2125,6 +2274,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Loiseau
+    organes: []
     ref: '197494'
   '197497':
     circonscription_code: ''
@@ -2140,6 +2290,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Mikser
+    organes: []
     ref: '197497'
   '197498':
     circonscription_code: ''
@@ -2155,6 +2306,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Biedro\u0144"
+    organes: []
     ref: '197498'
   '197500':
     circonscription_code: ''
@@ -2169,6 +2321,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Satouri
+    organes: []
     ref: '197500'
   '197501':
     circonscription_code: ''
@@ -2183,6 +2336,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Brudzi\u0144ski"
+    organes: []
     ref: '197501'
   '197502':
     circonscription_code: ''
@@ -2197,6 +2351,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Vedrenne
+    organes: []
     ref: '197502'
   '197503':
     circonscription_code: ''
@@ -2211,6 +2366,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Cormand
+    organes: []
     ref: '197503'
   '197504':
     circonscription_code: ''
@@ -2225,6 +2381,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Decerle
+    organes: []
     ref: '197504'
   '197514':
     circonscription_code: ''
@@ -2239,6 +2396,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Halicki
+    organes: []
     ref: '197514'
   '197516':
     circonscription_code: ''
@@ -2253,6 +2411,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Jaki
+    organes: []
     ref: '197516'
   '197517':
     circonscription_code: ''
@@ -2267,6 +2426,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Jarubas
+    organes: []
     ref: '197517'
   '197523':
     circonscription_code: ''
@@ -2281,6 +2441,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Kohut
+    organes: []
     ref: '197523'
   '197525':
     circonscription_code: ''
@@ -2295,6 +2456,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Kopacz
+    organes: []
     ref: '197525'
   '197526':
     circonscription_code: ''
@@ -2309,6 +2471,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Hlav\xE1\u010Dek"
+    organes: []
     ref: '197526'
   '197528':
     circonscription_code: ''
@@ -2323,6 +2486,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Knotek
+    organes: []
     ref: '197528'
   '197529':
     circonscription_code: ''
@@ -2337,6 +2501,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Chaibi
+    organes: []
     ref: '197529'
   '197533':
     circonscription_code: ''
@@ -2351,6 +2516,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Aubry
+    organes: []
     ref: '197533'
   '197534':
     circonscription_code: ''
@@ -2365,6 +2531,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Bellamy
+    organes: []
     ref: '197534'
   '197537':
     circonscription_code: ''
@@ -2379,6 +2546,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Vondra
+    organes: []
     ref: '197537'
   '197543':
     circonscription_code: ''
@@ -2393,6 +2561,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Guetta
+    organes: []
     ref: '197543'
   '197545':
     circonscription_code: ''
@@ -2407,6 +2576,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Rzo\u0144ca"
+    organes: []
     ref: '197545'
   '197549':
     circonscription_code: ''
@@ -2421,6 +2591,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: "Gregorov\xE1"
+    organes: []
     ref: '197549'
   '197552':
     circonscription_code: ''
@@ -2435,6 +2606,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Vrecionov\xE1"
+    organes: []
     ref: '197552'
   '197553':
     circonscription_code: ''
@@ -2449,6 +2621,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Szyd\u0142o"
+    organes: []
     ref: '197553'
   '197556':
     circonscription_code: ''
@@ -2463,6 +2636,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: David
+    organes: []
     ref: '197556'
   '197557':
     circonscription_code: ''
@@ -2477,6 +2651,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Grudler
+    organes: []
     ref: '197557'
   '197558':
     circonscription_code: ''
@@ -2491,6 +2666,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Christensen
+    organes: []
     ref: '197558'
   '197572':
     circonscription_code: ''
@@ -2505,6 +2681,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Zalewska
+    organes: []
     ref: '197572'
   '197573':
     circonscription_code: ''
@@ -2519,6 +2696,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Peter-Hansen
+    organes: []
     ref: '197573'
   '197574':
     circonscription_code: ''
@@ -2533,6 +2711,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: "Car\xEAme"
+    organes: []
     ref: '197574'
   '197577':
     circonscription_code: ''
@@ -2547,6 +2726,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Boyer
+    organes: []
     ref: '197577'
   '197578':
     circonscription_code: ''
@@ -2561,6 +2741,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Sardone
+    organes: []
     ref: '197578'
   '197579':
     circonscription_code: ''
@@ -2576,6 +2757,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Dobrev
+    organes: []
     ref: '197579'
   '197580':
     circonscription_code: ''
@@ -2590,6 +2772,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Tovaglieri
+    organes: []
     ref: '197580'
   '197581':
     circonscription_code: ''
@@ -2604,6 +2787,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Yon-Courtin
+    organes: []
     ref: '197581'
   '197589':
     circonscription_code: ''
@@ -2618,6 +2802,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Farreng
+    organes: []
     ref: '197589'
   '197591':
     circonscription_code: ''
@@ -2633,6 +2818,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Tinagli
+    organes: []
     ref: '197591'
   '197606':
     circonscription_code: ''
@@ -2647,6 +2833,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Zarzalejos
+    organes: []
     ref: '197606'
   '197607':
     circonscription_code: ''
@@ -2661,6 +2848,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Fiocchi
+    organes: []
     ref: '197607'
   '197618':
     circonscription_code: ''
@@ -2676,6 +2864,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Gualmini
+    organes: []
     ref: '197618'
   '197621':
     circonscription_code: ''
@@ -2690,6 +2879,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Zoido \xC1lvarez"
+    organes: []
     ref: '197621'
   '197623':
     circonscription_code: ''
@@ -2704,6 +2894,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Mariani
+    organes: []
     ref: '197623'
   '197624':
     circonscription_code: ''
@@ -2718,6 +2909,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Ijabs
+    organes: []
     ref: '197624'
   '197627':
     circonscription_code: ''
@@ -2732,6 +2924,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Joron
+    organes: []
     ref: '197627'
   '197628':
     circonscription_code: ''
@@ -2746,6 +2939,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Garraud
+    organes: []
     ref: '197628'
   '197636':
     circonscription_code: ''
@@ -2760,6 +2954,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Bogdan
+    organes: []
     ref: '197636'
   '197646':
     circonscription_code: ''
@@ -2774,6 +2969,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Hava
+    organes: []
     ref: '197646'
   '197647':
     circonscription_code: ''
@@ -2788,6 +2984,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Motreanu
+    organes: []
     ref: '197647'
   '197648':
     circonscription_code: ''
@@ -2802,6 +2999,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Bernhuber
+    organes: []
     ref: '197648'
   '197649':
     circonscription_code: ''
@@ -2816,6 +3014,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Falc\u0103"
+    organes: []
     ref: '197649'
   '197652':
     circonscription_code: ''
@@ -2830,6 +3029,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Winzig
+    organes: []
     ref: '197652'
   '197653':
     circonscription_code: ''
@@ -2845,6 +3045,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Manda
+    organes: []
     ref: '197653'
   '197655':
     circonscription_code: ''
@@ -2859,6 +3060,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Terhe\u015F"
+    organes: []
     ref: '197655'
   '197658':
     circonscription_code: ''
@@ -2874,6 +3076,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Benea
+    organes: []
     ref: '197658'
   '197662':
     circonscription_code: ''
@@ -2888,6 +3091,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Meimarakis
+    organes: []
     ref: '197662'
   '197670':
     circonscription_code: ''
@@ -2903,6 +3107,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Schieder
+    organes: []
     ref: '197670'
   '197672':
     circonscription_code: ''
@@ -2917,6 +3122,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Tomac
+    organes: []
     ref: '197672'
   '197677':
     circonscription_code: ''
@@ -2932,6 +3138,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Sidl
+    organes: []
     ref: '197677'
   '197679':
     circonscription_code: ''
@@ -2946,6 +3153,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Benjumea Benjumea
+    organes: []
     ref: '197679'
   '197682':
     circonscription_code: ''
@@ -2961,6 +3169,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Heide
+    organes: []
     ref: '197682'
   '197684':
     circonscription_code: ''
@@ -2975,6 +3184,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Barrena Arza
+    organes: []
     ref: '197684'
   '197687':
     circonscription_code: ''
@@ -2989,6 +3199,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Olivier
+    organes: []
     ref: '197687'
   '197690':
     circonscription_code: ''
@@ -3003,6 +3214,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Roug\xE9"
+    organes: []
     ref: '197690'
   '197691':
     circonscription_code: ''
@@ -3017,6 +3229,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Androu\xEBt"
+    organes: []
     ref: '197691'
   '197694':
     circonscription_code: ''
@@ -3032,6 +3245,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Glucksmann
+    organes: []
     ref: '197694'
   '197697':
     circonscription_code: ''
@@ -3047,6 +3261,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Lalucq
+    organes: []
     ref: '197697'
   '197699':
     circonscription_code: ''
@@ -3061,6 +3276,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Kountoura
+    organes: []
     ref: '197699'
   '197701':
     circonscription_code: ''
@@ -3075,6 +3291,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Arvanitis
+    organes: []
     ref: '197701'
   '197702':
     circonscription_code: ''
@@ -3090,6 +3307,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "G\xE1lvez"
+    organes: []
     ref: '197702'
   '197711':
     circonscription_code: ''
@@ -3104,6 +3322,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Montserrat
+    organes: []
     ref: '197711'
   '197718':
     circonscription_code: ''
@@ -3119,6 +3338,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Gonz\xE1lez Casares"
+    organes: []
     ref: '197718'
   '197719':
     circonscription_code: ''
@@ -3134,6 +3354,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Maestre
+    organes: []
     ref: '197719'
   '197721':
     circonscription_code: ''
@@ -3149,6 +3370,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Luena
+    organes: []
     ref: '197721'
   '197722':
     circonscription_code: ''
@@ -3164,6 +3386,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "S\xE1nchez Amor"
+    organes: []
     ref: '197722'
   '197734':
     circonscription_code: ''
@@ -3178,6 +3401,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Nikolaou-Alavanos
+    organes: []
     ref: '197734'
   '197738':
     circonscription_code: ''
@@ -3192,6 +3416,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Pereira
+    organes: []
     ref: '197738'
   '197763':
     circonscription_code: ''
@@ -3206,6 +3431,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: "Uhr\xEDk"
+    organes: []
     ref: '197763'
   '197769':
     circonscription_code: ''
@@ -3220,6 +3446,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Wiezik
+    organes: []
     ref: '197769'
   '197770':
     circonscription_code: ''
@@ -3234,6 +3461,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "Hojs\xEDk"
+    organes: []
     ref: '197770'
   '197772':
     circonscription_code: ''
@@ -3248,6 +3476,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Strik
+    organes: []
     ref: '197772'
   '197773':
     circonscription_code: ''
@@ -3262,6 +3491,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Ruissen
+    organes: []
     ref: '197773'
   '197778':
     circonscription_code: ''
@@ -3276,6 +3506,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Berendsen
+    organes: []
     ref: '197778'
   '197780':
     circonscription_code: ''
@@ -3290,6 +3521,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Groothuis
+    organes: []
     ref: '197780'
   '197781':
     circonscription_code: ''
@@ -3304,6 +3536,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Azmani
+    organes: []
     ref: '197781'
   '197782':
     circonscription_code: ''
@@ -3319,6 +3552,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Chahim
+    organes: []
     ref: '197782'
   '197784':
     circonscription_code: ''
@@ -3333,6 +3567,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Sol\xEDs P\xE9rez"
+    organes: []
     ref: '197784'
   '197786':
     circonscription_code: ''
@@ -3347,6 +3582,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Ceccardi
+    organes: []
     ref: '197786'
   '197794':
     circonscription_code: ''
@@ -3361,6 +3597,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Gemma
+    organes: []
     ref: '197794'
   '197795':
     circonscription_code: ''
@@ -3375,6 +3612,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Furore
+    organes: []
     ref: '197795'
   '197800':
     circonscription_code: ''
@@ -3390,6 +3628,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Hein\xE4luoma"
+    organes: []
     ref: '197800'
   '197802':
     circonscription_code: ''
@@ -3404,6 +3643,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: "Niinist\xF6"
+    organes: []
     ref: '197802'
   '197810':
     circonscription_code: ''
@@ -3419,6 +3659,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "U\u0161akovs"
+    organes: []
     ref: '197810'
   '197818':
     circonscription_code: ''
@@ -3433,6 +3674,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Kelleher
+    organes: []
     ref: '197818'
   '197820':
     circonscription_code: ''
@@ -3447,6 +3689,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Procaccini
+    organes: []
     ref: '197820'
   '197824':
     circonscription_code: ''
@@ -3461,6 +3704,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Milazzo
+    organes: []
     ref: '197824'
   '197825':
     circonscription_code: ''
@@ -3475,6 +3719,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Stancanelli
+    organes: []
     ref: '197825'
   '197829':
     circonscription_code: ''
@@ -3489,6 +3734,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Buxad\xE9 Villalba"
+    organes: []
     ref: '197829'
   '197831':
     circonscription_code: ''
@@ -3503,6 +3749,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Tertsch
+    organes: []
     ref: '197831'
   '197832':
     circonscription_code: ''
@@ -3517,6 +3764,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Riba i Giner
+    organes: []
     ref: '197832'
   '197839':
     circonscription_code: ''
@@ -3531,6 +3779,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Kanev
+    organes: []
     ref: '197839'
   '197840':
     circonscription_code: ''
@@ -3545,6 +3794,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Juknevi\u010Dien\u0117"
+    organes: []
     ref: '197840'
   '197841':
     circonscription_code: ''
@@ -3559,6 +3809,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Ma\u017Eylis"
+    organes: []
     ref: '197841'
   '197842':
     circonscription_code: ''
@@ -3573,6 +3824,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe; Non-inscrits
     last_name: Yoncheva
+    organes: []
     ref: '197842'
   '197843':
     circonscription_code: ''
@@ -3587,6 +3839,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Kubilius
+    organes: []
     ref: '197843'
   '197845':
     circonscription_code: ''
@@ -3602,6 +3855,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Penkova
+    organes: []
     ref: '197845'
   '197863':
     circonscription_code: ''
@@ -3616,6 +3870,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Walsh
+    organes: []
     ref: '197863'
   '197870':
     circonscription_code: ''
@@ -3630,6 +3885,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Van Sparrentak
+    organes: []
     ref: '197870'
   '198073':
     circonscription_code: ''
@@ -3644,6 +3900,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Henriksson
+    organes: []
     ref: '198073'
   '198076':
     circonscription_code: ''
@@ -3658,6 +3915,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Ohisalo
+    organes: []
     ref: '198076'
   '198084':
     circonscription_code: ''
@@ -3672,6 +3930,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Kulmuni
+    organes: []
     ref: '198084'
   '198176':
     circonscription_code: ''
@@ -3686,6 +3945,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Haider
+    organes: []
     ref: '198176'
   '198183':
     circonscription_code: ''
@@ -3701,6 +3961,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Tudose
+    organes: []
     ref: '198183'
   '198373':
     circonscription_code: ''
@@ -3715,6 +3976,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: "La\u0161\u0161\xE1kov\xE1"
+    organes: []
     ref: '198373'
   '198490':
     circonscription_code: ''
@@ -3729,6 +3991,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Fragkos
+    organes: []
     ref: '198490'
   '199941':
     circonscription_code: ''
@@ -3744,6 +4007,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Vind
+    organes: []
     ref: '199941'
   '200345':
     circonscription_code: ''
@@ -3758,6 +4022,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Thionnet
+    organes: []
     ref: '200345'
   '201945':
     circonscription_code: ''
@@ -3772,6 +4037,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: "Sinkevi\u010Dius"
+    organes: []
     ref: '201945'
   '202036':
     circonscription_code: ''
@@ -3786,6 +4052,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Glavak
+    organes: []
     ref: '202036'
   '202073':
     circonscription_code: ''
@@ -3801,6 +4068,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Angel
+    organes: []
     ref: '202073'
   '204129':
     circonscription_code: ''
@@ -3815,6 +4083,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Brnjac
+    organes: []
     ref: '204129'
   '204332':
     circonscription_code: ''
@@ -3829,6 +4098,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Andrews
+    organes: []
     ref: '204332'
   '204333':
     circonscription_code: ''
@@ -3843,6 +4113,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: De Meo
+    organes: []
     ref: '204333'
   '204336':
     circonscription_code: ''
@@ -3857,6 +4128,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Lexmann
+    organes: []
     ref: '204336'
   '204346':
     circonscription_code: ''
@@ -3871,6 +4143,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Tarczy\u0144ski"
+    organes: []
     ref: '204346'
   '204400':
     circonscription_code: ''
@@ -3885,6 +4158,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "V\xE1zquez L\xE1zara"
+    organes: []
     ref: '204400'
   '204413':
     circonscription_code: ''
@@ -3900,6 +4174,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Ros Sempere
+    organes: []
     ref: '204413'
   '204414':
     circonscription_code: ''
@@ -3914,6 +4189,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "de la Pisa Carri\xF3n"
+    organes: []
     ref: '204414'
   '204418':
     circonscription_code: ''
@@ -3929,6 +4205,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Mebarek
+    organes: []
     ref: '204418'
   '204419':
     circonscription_code: ''
@@ -3943,6 +4220,7 @@ members:
     group_abv: ''
     group_name: ''
     last_name: Gozi
+    organes: []
     ref: '204419'
   '204449':
     circonscription_code: ''
@@ -3957,6 +4235,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Terras
+    organes: []
     ref: '204449'
   '206158':
     circonscription_code: ''
@@ -3971,6 +4250,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Ripa
+    organes: []
     ref: '206158'
   '208722':
     circonscription_code: ''
@@ -3985,6 +4265,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Matthieu
+    organes: []
     ref: '208722'
   '210480':
     circonscription_code: ''
@@ -4000,6 +4281,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Temido
+    organes: []
     ref: '210480'
   '213330':
     circonscription_code: ''
@@ -4014,6 +4296,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Schaller-Baross
+    organes: []
     ref: '213330'
   '214839':
     circonscription_code: ''
@@ -4028,6 +4311,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Wiesner
+    organes: []
     ref: '214839'
   '2152':
     circonscription_code: ''
@@ -4042,6 +4326,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Orlando
+    organes: []
     ref: '2152'
   '218347':
     circonscription_code: ''
@@ -4057,6 +4342,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Reuten
+    organes: []
     ref: '218347'
   '219652':
     circonscription_code: ''
@@ -4071,6 +4357,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Tonin
+    organes: []
     ref: '219652'
   '220801':
     circonscription_code: ''
@@ -4085,6 +4372,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "Wilm\xE8s"
+    organes: []
     ref: '220801'
   '220840':
     circonscription_code: ''
@@ -4099,6 +4387,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "B\u017Eoch"
+    organes: []
     ref: '220840'
   '220871':
     circonscription_code: ''
@@ -4113,6 +4402,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Kols
+    organes: []
     ref: '220871'
   '220896':
     circonscription_code: ''
@@ -4127,6 +4417,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Lopatka
+    organes: []
     ref: '220896'
   '220897':
     circonscription_code: ''
@@ -4141,6 +4432,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Steger
+    organes: []
     ref: '220897'
   '220908':
     circonscription_code: ''
@@ -4155,6 +4447,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Grims
+    organes: []
     ref: '220908'
   '22418':
     circonscription_code: ''
@@ -4169,6 +4462,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Herranz Garc\xEDa"
+    organes: []
     ref: '22418'
   '2268':
     circonscription_code: ''
@@ -4183,6 +4477,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: "Sj\xF6stedt"
+    organes: []
     ref: '2268'
   '22858':
     circonscription_code: ''
@@ -4197,6 +4492,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Keller
+    organes: []
     ref: '22858'
   '229839':
     circonscription_code: ''
@@ -4212,6 +4508,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Repasi
+    organes: []
     ref: '229839'
   '230085':
     circonscription_code: ''
@@ -4227,6 +4524,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Laureti
+    organes: []
     ref: '230085'
   '233862':
     circonscription_code: ''
@@ -4242,6 +4540,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Nemec
+    organes: []
     ref: '233862'
   '2341':
     circonscription_code: ''
@@ -4256,6 +4555,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Gahler
+    organes: []
     ref: '2341'
   '236050':
     circonscription_code: ''
@@ -4270,6 +4570,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Dauchy
+    organes: []
     ref: '236050'
   '236053':
     circonscription_code: ''
@@ -4284,6 +4585,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Mesure
+    organes: []
     ref: '236053'
   '23699':
     circonscription_code: ''
@@ -4298,6 +4600,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: "Kone\u010Dn\xE1"
+    organes: []
     ref: '23699'
   '237465':
     circonscription_code: ''
@@ -4313,6 +4616,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Ecke
+    organes: []
     ref: '237465'
   '23781':
     circonscription_code: ''
@@ -4327,6 +4631,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Lewandowski
+    organes: []
     ref: '23781'
   '23788':
     circonscription_code: ''
@@ -4341,6 +4646,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Bielan
+    organes: []
     ref: '23788'
   '23816':
     circonscription_code: ''
@@ -4355,6 +4661,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Gy\xFCrk"
+    organes: []
     ref: '23816'
   '23868':
     circonscription_code: ''
@@ -4369,6 +4676,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: "Be\u0148ov\xE1"
+    organes: []
     ref: '23868'
   '239260':
     circonscription_code: ''
@@ -4383,6 +4691,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Nesci
+    organes: []
     ref: '239260'
   '244571':
     circonscription_code: ''
@@ -4398,6 +4707,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Papandreou
+    organes: []
     ref: '244571'
   '245018':
     circonscription_code: ''
@@ -4413,6 +4723,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Clergeau
+    organes: []
     ref: '245018'
   '245770':
     circonscription_code: ''
@@ -4427,6 +4738,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Montero
+    organes: []
     ref: '245770'
   '247735':
     circonscription_code: ''
@@ -4442,6 +4754,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Ballar\xEDn Cereza"
+    organes: []
     ref: '247735'
   '24922':
     circonscription_code: ''
@@ -4456,6 +4769,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Arimont
+    organes: []
     ref: '24922'
   '24942':
     circonscription_code: ''
@@ -4470,6 +4784,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Miranda Paz
+    organes: []
     ref: '24942'
   '249603':
     circonscription_code: ''
@@ -4484,6 +4799,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Kemp
+    organes: []
     ref: '249603'
   '249982':
     circonscription_code: ''
@@ -4498,6 +4814,7 @@ members:
     group_abv: ''
     group_name: "Non-inscrits; Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Mazurek
+    organes: []
     ref: '249982'
   '251324':
     circonscription_code: ''
@@ -4512,6 +4829,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Brejza
+    organes: []
     ref: '251324'
   '251874':
     circonscription_code: ''
@@ -4526,6 +4844,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Geuking
+    organes: []
     ref: '251874'
   '256803':
     circonscription_code: ''
@@ -4541,6 +4860,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Guzenina
+    organes: []
     ref: '256803'
   '256804':
     circonscription_code: ''
@@ -4555,6 +4875,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Toveri
+    organes: []
     ref: '256804'
   '256805':
     circonscription_code: ''
@@ -4569,6 +4890,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Andersson
+    organes: []
     ref: '256805'
   '256806':
     circonscription_code: ''
@@ -4583,6 +4905,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Tynkkynen
+    organes: []
     ref: '256806'
   '256807':
     circonscription_code: ''
@@ -4597,6 +4920,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "\u017Dalimas"
+    organes: []
     ref: '256807'
   '256808':
     circonscription_code: ''
@@ -4611,6 +4935,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: "Gra\u017Eulis"
+    organes: []
     ref: '256808'
   '256809':
     circonscription_code: ''
@@ -4625,6 +4950,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Saudargas
+    organes: []
     ref: '256809'
   '256810':
     circonscription_code: ''
@@ -4639,6 +4965,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Aaltola
+    organes: []
     ref: '256810'
   '256811':
     circonscription_code: ''
@@ -4653,6 +4980,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Veryga
+    organes: []
     ref: '256811'
   '256813':
     circonscription_code: ''
@@ -4667,6 +4995,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: "Prebili\u010D"
+    organes: []
     ref: '256813'
   '256814':
     circonscription_code: ''
@@ -4681,6 +5010,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Toma\u0161i\u010D"
+    organes: []
     ref: '256814'
   '256815':
     circonscription_code: ''
@@ -4695,6 +5025,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "\u0160arec"
+    organes: []
     ref: '256815'
   '256820':
     circonscription_code: ''
@@ -4709,6 +5040,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Aftias
+    organes: []
     ref: '256820'
   '256823':
     circonscription_code: ''
@@ -4723,6 +5055,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Farantouris
+    organes: []
     ref: '256823'
   '256824':
     circonscription_code: ''
@@ -4738,6 +5071,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Maniatis
+    organes: []
     ref: '256824'
   '256829':
     circonscription_code: ''
@@ -4753,6 +5087,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Arnaoutoglou
+    organes: []
     ref: '256829'
   '256830':
     circonscription_code: ''
@@ -4768,6 +5103,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Grossmann
+    organes: []
     ref: '256830'
   '256831':
     circonscription_code: ''
@@ -4782,6 +5118,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Kircher
+    organes: []
     ref: '256831'
   '256833':
     circonscription_code: ''
@@ -4796,6 +5133,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Schilling
+    organes: []
     ref: '256833'
   '256834':
     circonscription_code: ''
@@ -4810,6 +5148,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Dieringer
+    organes: []
     ref: '256834'
   '256839':
     circonscription_code: ''
@@ -4824,6 +5163,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "St\xFCrgkh"
+    organes: []
     ref: '256839'
   '256840':
     circonscription_code: ''
@@ -4838,6 +5178,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Farsk\xFD"
+    organes: []
     ref: '256840'
   '256841':
     circonscription_code: ''
@@ -4852,6 +5193,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "Brandst\xE4tter"
+    organes: []
     ref: '256841'
   '256842':
     circonscription_code: ''
@@ -4866,6 +5208,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Hauser
+    organes: []
     ref: '256842'
   '256843':
     circonscription_code: ''
@@ -4880,6 +5223,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Nagyov\xE1"
+    organes: []
     ref: '256843'
   '256844':
     circonscription_code: ''
@@ -4894,6 +5238,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Pokorn\xE1 Jermanov\xE1"
+    organes: []
     ref: '256844'
   '256845':
     circonscription_code: ''
@@ -4908,6 +5253,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Krut\xEDlek"
+    organes: []
     ref: '256845'
   '256846':
     circonscription_code: ''
@@ -4922,6 +5268,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Kol\xE1\u0159"
+    organes: []
     ref: '256846'
   '256847':
     circonscription_code: ''
@@ -4936,6 +5283,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Nerudov\xE1"
+    organes: []
     ref: '256847'
   '256850':
     circonscription_code: ''
@@ -4950,6 +5298,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Turek
+    organes: []
     ref: '256850'
   '256851':
     circonscription_code: ''
@@ -4964,6 +5313,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: "Dost\xE1l"
+    organes: []
     ref: '256851'
   '256852':
     circonscription_code: ''
@@ -4978,6 +5328,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Bart\u016F\u0161ek"
+    organes: []
     ref: '256852'
   '256853':
     circonscription_code: ''
@@ -4992,6 +5343,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Dostalova
+    organes: []
     ref: '256853'
   '256854':
     circonscription_code: ''
@@ -5006,6 +5358,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Gy\u0151rffy"
+    organes: []
     ref: '256854'
   '256855':
     circonscription_code: ''
@@ -5020,6 +5373,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Szekeres
+    organes: []
     ref: '256855'
   '256857':
     circonscription_code: ''
@@ -5034,6 +5388,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Ferenc
+    organes: []
     ref: '256857'
   '256858':
     circonscription_code: ''
@@ -5048,6 +5403,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Anadiotis
+    organes: []
     ref: '256858'
   '256859':
     circonscription_code: ''
@@ -5062,6 +5418,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Vicsek
+    organes: []
     ref: '256859'
   '256860':
     circonscription_code: ''
@@ -5076,6 +5433,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "L\xE1szl\xF3"
+    organes: []
     ref: '256860'
   '256861':
     circonscription_code: ''
@@ -5090,6 +5448,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Koll\xE1r"
+    organes: []
     ref: '256861'
   '256862':
     circonscription_code: ''
@@ -5104,6 +5463,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "D\xE1vid"
+    organes: []
     ref: '256862'
   '256863':
     circonscription_code: ''
@@ -5118,6 +5478,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Tarr
+    organes: []
     ref: '256863'
   '256864':
     circonscription_code: ''
@@ -5132,6 +5493,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Kulja
+    organes: []
     ref: '256864'
   '256865':
     circonscription_code: ''
@@ -5146,6 +5508,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Lakos
+    organes: []
     ref: '256865'
   '256866':
     circonscription_code: ''
@@ -5160,6 +5523,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Gerzsenyi
+    organes: []
     ref: '256866'
   '256868':
     circonscription_code: ''
@@ -5174,6 +5538,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Magyar
+    organes: []
     ref: '256868'
   '256869':
     circonscription_code: ''
@@ -5188,6 +5553,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Allione
+    organes: []
     ref: '256869'
   '256870':
     circonscription_code: ''
@@ -5202,6 +5568,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Devaux
+    organes: []
     ref: '256870'
   '256871':
     circonscription_code: ''
@@ -5216,6 +5583,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe; Non-inscrits"
     last_name: Sorel
+    organes: []
     ref: '256871'
   '256872':
     circonscription_code: ''
@@ -5230,6 +5598,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Leggeri
+    organes: []
     ref: '256872'
   '256874':
     circonscription_code: ''
@@ -5244,6 +5613,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Disdier
+    organes: []
     ref: '256874'
   '256875':
     circonscription_code: ''
@@ -5258,6 +5628,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Valet
+    organes: []
     ref: '256875'
   '256876':
     circonscription_code: ''
@@ -5272,6 +5643,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Frigout
+    organes: []
     ref: '256876'
   '256877':
     circonscription_code: ''
@@ -5286,6 +5658,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Piera
+    organes: []
     ref: '256877'
   '256878':
     circonscription_code: ''
@@ -5300,6 +5673,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Brasier-Clain
+    organes: []
     ref: '256878'
   '256879':
     circonscription_code: ''
@@ -5314,6 +5688,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Verougstraete
+    organes: []
     ref: '256879'
   '256880':
     circonscription_code: ''
@@ -5329,6 +5704,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Ceulemans
+    organes: []
     ref: '256880'
   '256881':
     circonscription_code: ''
@@ -5343,6 +5719,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Bonte
+    organes: []
     ref: '256881'
   '256882':
     circonscription_code: ''
@@ -5357,6 +5734,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Rechagneux
+    organes: []
     ref: '256882'
   '256883':
     circonscription_code: ''
@@ -5371,6 +5749,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Nikolic
+    organes: []
     ref: '256883'
   '256884':
     circonscription_code: ''
@@ -5385,6 +5764,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Van Dijck
+    organes: []
     ref: '256884'
   '256885':
     circonscription_code: ''
@@ -5400,6 +5780,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Tobback
+    organes: []
     ref: '256885'
   '256886':
     circonscription_code: ''
@@ -5414,6 +5795,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Deloge
+    organes: []
     ref: '256886'
   '256887':
     circonscription_code: ''
@@ -5428,6 +5810,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Beke
+    organes: []
     ref: '256887'
   '256888':
     circonscription_code: ''
@@ -5442,6 +5825,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Tolassy
+    organes: []
     ref: '256888'
   '256889':
     circonscription_code: ''
@@ -5456,6 +5840,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Sommen
+    organes: []
     ref: '256889'
   '256890':
     circonscription_code: ''
@@ -5470,6 +5855,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Kennes
+    organes: []
     ref: '256890'
   '256891':
     circonscription_code: ''
@@ -5484,6 +5870,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Cassart
+    organes: []
     ref: '256891'
   '256893':
     circonscription_code: ''
@@ -5498,6 +5885,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Pimpie
+    organes: []
     ref: '256893'
   '256894':
     circonscription_code: ''
@@ -5512,6 +5900,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Josserand
+    organes: []
     ref: '256894'
   '256895':
     circonscription_code: ''
@@ -5526,6 +5915,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Leonardelli
+    organes: []
     ref: '256895'
   '256896':
     circonscription_code: ''
@@ -5540,6 +5930,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Furet
+    organes: []
     ref: '256896'
   '256897':
     circonscription_code: ''
@@ -5554,6 +5945,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Dussausaye
+    organes: []
     ref: '256897'
   '256898':
     circonscription_code: ''
@@ -5569,6 +5961,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Jouvet
+    organes: []
     ref: '256898'
   '256899':
     circonscription_code: ''
@@ -5584,6 +5977,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Laurent
+    organes: []
     ref: '256899'
   '256900':
     circonscription_code: ''
@@ -5599,6 +5993,7 @@ members:
     group_name: "Non-inscrits; Groupe des Conservateurs et R\xE9formistes europ\xE9\
       ens"
     last_name: Kartheiser
+    organes: []
     ref: '256900'
   '256901':
     circonscription_code: ''
@@ -5614,6 +6009,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Germain
+    organes: []
     ref: '256901'
   '256902':
     circonscription_code: ''
@@ -5629,6 +6025,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Rafowicz
+    organes: []
     ref: '256902'
   '256903':
     circonscription_code: ''
@@ -5644,6 +6041,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Pellerin-Carlin
+    organes: []
     ref: '256903'
   '256904':
     circonscription_code: ''
@@ -5659,6 +6057,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Ridel
+    organes: []
     ref: '256904'
   '256905':
     circonscription_code: ''
@@ -5674,6 +6073,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Sargiacomo
+    organes: []
     ref: '256905'
   '256906':
     circonscription_code: ''
@@ -5689,6 +6089,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Fita
+    organes: []
     ref: '256906'
   '256907':
     circonscription_code: ''
@@ -5703,6 +6104,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Poz\u0146aks"
+    organes: []
     ref: '256907'
   '256908':
     circonscription_code: ''
@@ -5718,6 +6120,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Kalfon
+    organes: []
     ref: '256908'
   '256909':
     circonscription_code: ''
@@ -5732,6 +6135,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Kri\u0161topans"
+    organes: []
     ref: '256909'
   '256910':
     circonscription_code: ''
@@ -5746,6 +6150,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Smith
+    organes: []
     ref: '256910'
   '256911':
     circonscription_code: ''
@@ -5760,6 +6165,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Saeidi
+    organes: []
     ref: '256911'
   '256912':
     circonscription_code: ''
@@ -5774,6 +6180,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Hassan
+    organes: []
     ref: '256912'
   '256913':
     circonscription_code: ''
@@ -5788,6 +6195,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Fourreau
+    organes: []
     ref: '256913'
   '256915':
     circonscription_code: ''
@@ -5802,6 +6210,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Camara
+    organes: []
     ref: '256915'
   '256916':
     circonscription_code: ''
@@ -5816,6 +6225,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: "Sta\u0137is"
+    organes: []
     ref: '256916'
   '256917':
     circonscription_code: ''
@@ -5830,6 +6240,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Sbai
+    organes: []
     ref: '256917'
   '256918':
     circonscription_code: ''
@@ -5844,6 +6255,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Imart
+    organes: []
     ref: '256918'
   '256919':
     circonscription_code: ''
@@ -5858,6 +6270,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Gomart
+    organes: []
     ref: '256919'
   '256920':
     circonscription_code: ''
@@ -5872,6 +6285,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Le Callennec
+    organes: []
     ref: '256920'
   '256921':
     circonscription_code: ''
@@ -5887,6 +6301,7 @@ members:
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens);\
       \ Groupe Patriotes pour l\u2019Europe"
     last_name: Castillo
+    organes: []
     ref: '256921'
   '256922':
     circonscription_code: ''
@@ -5901,6 +6316,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Mar\xE9chal"
+    organes: []
     ref: '256922'
   '256924':
     circonscription_code: ''
@@ -5915,6 +6331,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Knafo
+    organes: []
     ref: '256924'
   '256925':
     circonscription_code: ''
@@ -5929,6 +6346,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Trochu
+    organes: []
     ref: '256925'
   '256926':
     circonscription_code: ''
@@ -5943,6 +6361,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Strack-Zimmermann
+    organes: []
     ref: '256926'
   '256927':
     circonscription_code: ''
@@ -5957,6 +6376,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Rackete
+    organes: []
     ref: '256927'
   '256928':
     circonscription_code: ''
@@ -5971,6 +6391,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Bystron
+    organes: []
     ref: '256928'
   '256929':
     circonscription_code: ''
@@ -5985,6 +6406,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Aust
+    organes: []
     ref: '256929'
   '256934':
     circonscription_code: ''
@@ -6000,6 +6422,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Attard
+    organes: []
     ref: '256934'
   '256935':
     circonscription_code: ''
@@ -6015,6 +6438,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Repp
+    organes: []
     ref: '256935'
   '256936':
     circonscription_code: ''
@@ -6030,6 +6454,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Bajada
+    organes: []
     ref: '256936'
   '256937':
     circonscription_code: ''
@@ -6045,6 +6470,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Costanzo
+    organes: []
     ref: '256937'
   '256938':
     circonscription_code: ''
@@ -6060,6 +6486,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Cremer
+    organes: []
     ref: '256938'
   '256939':
     circonscription_code: ''
@@ -6074,6 +6501,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Geisel
+    organes: []
     ref: '256939'
   '256941':
     circonscription_code: ''
@@ -6088,6 +6516,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Jungbluth
+    organes: []
     ref: '256941'
   '256942':
     circonscription_code: ''
@@ -6102,6 +6531,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Jongen
+    organes: []
     ref: '256942'
   '256943':
     circonscription_code: ''
@@ -6116,6 +6546,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Meleti
+    organes: []
     ref: '256943'
   '256944':
     circonscription_code: ''
@@ -6130,6 +6561,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Neuhoff
+    organes: []
     ref: '256944'
   '256945':
     circonscription_code: ''
@@ -6144,6 +6576,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: "Bo\xDFdorf"
+    organes: []
     ref: '256945'
   '256946':
     circonscription_code: ''
@@ -6158,6 +6591,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Singer
+    organes: []
     ref: '256946'
   '256947':
     circonscription_code: ''
@@ -6172,6 +6606,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Beleris
+    organes: []
     ref: '256947'
   '256948':
     circonscription_code: ''
@@ -6186,6 +6621,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Bausemer
+    organes: []
     ref: '256948'
   '256949':
     circonscription_code: ''
@@ -6200,6 +6636,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Droese
+    organes: []
     ref: '256949'
   '256950':
     circonscription_code: ''
@@ -6214,6 +6651,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Tsiodras
+    organes: []
     ref: '256950'
   '256951':
     circonscription_code: ''
@@ -6228,6 +6666,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Arndt
+    organes: []
     ref: '256951'
   '256952':
     circonscription_code: ''
@@ -6242,6 +6681,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Pappas
+    organes: []
     ref: '256952'
   '256954':
     circonscription_code: ''
@@ -6256,6 +6696,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Latinopoulou
+    organes: []
     ref: '256954'
   '256955':
     circonscription_code: ''
@@ -6270,6 +6711,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Zacharia
+    organes: []
     ref: '256955'
   '256956':
     circonscription_code: ''
@@ -6284,6 +6726,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Alexandraki
+    organes: []
     ref: '256956'
   '256957':
     circonscription_code: ''
@@ -6298,6 +6741,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Khan
+    organes: []
     ref: '256957'
   '256959':
     circonscription_code: ''
@@ -6312,6 +6756,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Sell
+    organes: []
     ref: '256959'
   '256960':
     circonscription_code: ''
@@ -6326,6 +6771,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Berg
+    organes: []
     ref: '256960'
   '256961':
     circonscription_code: ''
@@ -6340,6 +6786,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Everding
+    organes: []
     ref: '256961'
   '256962':
     circonscription_code: ''
@@ -6354,6 +6801,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Streit
+    organes: []
     ref: '256962'
   '256964':
     circonscription_code: ''
@@ -6368,6 +6816,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Riehl
+    organes: []
     ref: '256964'
   '256965':
     circonscription_code: ''
@@ -6382,6 +6831,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Tegethoff
+    organes: []
     ref: '256965'
   '256966':
     circonscription_code: ''
@@ -6396,6 +6846,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: von der Schulenburg
+    organes: []
     ref: '256966'
   '256967':
     circonscription_code: ''
@@ -6410,6 +6861,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Warnke
+    organes: []
     ref: '256967'
   '256968':
     circonscription_code: ''
@@ -6424,6 +6876,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Ter Laak
+    organes: []
     ref: '256968'
   '256969':
     circonscription_code: ''
@@ -6438,6 +6891,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: "P\xFCrner"
+    organes: []
     ref: '256969'
   '256970':
     circonscription_code: ''
@@ -6452,6 +6906,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "Garc\xEDa Hermida-Van Der Walle"
+    organes: []
     ref: '256970'
   '256971':
     circonscription_code: ''
@@ -6466,6 +6921,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Sieper
+    organes: []
     ref: '256971'
   '256973':
     circonscription_code: ''
@@ -6480,6 +6936,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "K\xF6hler"
+    organes: []
     ref: '256973'
   '256974':
     circonscription_code: ''
@@ -6494,6 +6951,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Mertens
+    organes: []
     ref: '256974'
   '256976':
     circonscription_code: ''
@@ -6508,6 +6966,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: van den Berg
+    organes: []
     ref: '256976'
   '256977':
     circonscription_code: ''
@@ -6522,6 +6981,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Wechsler
+    organes: []
     ref: '256977'
   '256978':
     circonscription_code: ''
@@ -6536,6 +6996,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Van Lanschot
+    organes: []
     ref: '256978'
   '256979':
     circonscription_code: ''
@@ -6550,6 +7011,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Schenk
+    organes: []
     ref: '256979'
   '256980':
     circonscription_code: ''
@@ -6564,6 +7026,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Mehnert
+    organes: []
     ref: '256980'
   '256981':
     circonscription_code: ''
@@ -6578,6 +7041,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Diepeveen
+    organes: []
     ref: '256981'
   '256983':
     circonscription_code: ''
@@ -6592,6 +7056,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Van Leeuwen
+    organes: []
     ref: '256983'
   '256985':
     circonscription_code: ''
@@ -6606,6 +7071,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Hadjipantela
+    organes: []
     ref: '256985'
   '256986':
     circonscription_code: ''
@@ -6620,6 +7086,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Geadi
+    organes: []
     ref: '256986'
   '256987':
     circonscription_code: ''
@@ -6634,6 +7101,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "Agirregoitia Mart\xEDnez"
+    organes: []
     ref: '256987'
   '256989':
     circonscription_code: ''
@@ -6648,6 +7116,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Panayiotou
+    organes: []
     ref: '256989'
   '256990':
     circonscription_code: ''
@@ -6662,6 +7131,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Strolenberg
+    organes: []
     ref: '256990'
   '256991':
     circonscription_code: ''
@@ -6676,6 +7146,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "St\xF6teler"
+    organes: []
     ref: '256991'
   '256992':
     circonscription_code: ''
@@ -6691,6 +7162,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Jalloul Muro
+    organes: []
     ref: '256992'
   '256993':
     circonscription_code: ''
@@ -6706,6 +7178,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Paj\xEDn"
+    organes: []
     ref: '256993'
   '256994':
     circonscription_code: ''
@@ -6721,6 +7194,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Mendia
+    organes: []
     ref: '256994'
   '256995':
     circonscription_code: ''
@@ -6735,6 +7209,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Bosanac
+    organes: []
     ref: '256995'
   '256996':
     circonscription_code: ''
@@ -6749,6 +7224,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Kruis
+    organes: []
     ref: '256996'
   '256997':
     circonscription_code: ''
@@ -6764,6 +7240,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "G\xF3mez L\xF3pez"
+    organes: []
     ref: '256997'
   '256998':
     circonscription_code: ''
@@ -6778,6 +7255,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Blom
+    organes: []
     ref: '256998'
   '256999':
     circonscription_code: ''
@@ -6793,6 +7271,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Serrano Sierra
+    organes: []
     ref: '256999'
   '257000':
     circonscription_code: ''
@@ -6807,6 +7286,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Bartulica
+    organes: []
     ref: '257000'
   '257001':
     circonscription_code: ''
@@ -6822,6 +7302,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Sancho Murillo
+    organes: []
     ref: '257001'
   '257002':
     circonscription_code: ''
@@ -6837,6 +7318,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Cepeda
+    organes: []
     ref: '257002'
   '257003':
     circonscription_code: ''
@@ -6851,6 +7333,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Baljeu
+    organes: []
     ref: '257003'
   '257005':
     circonscription_code: ''
@@ -6865,6 +7348,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Blaha
+    organes: []
     ref: '257005'
   '257007':
     circonscription_code: ''
@@ -6879,6 +7363,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: "Kali\u0148\xE1k"
+    organes: []
     ref: '257007'
   '257009':
     circonscription_code: ''
@@ -6893,6 +7378,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: "Serra S\xE1nchez"
+    organes: []
     ref: '257009'
   '257010':
     circonscription_code: ''
@@ -6907,6 +7393,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "\xD3dor"
+    organes: []
     ref: '257010'
   '257011':
     circonscription_code: ''
@@ -6921,6 +7408,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Yar
+    organes: []
     ref: '257011'
   '257012':
     circonscription_code: ''
@@ -6935,6 +7423,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: "Gal\xE1n"
+    organes: []
     ref: '257012'
   '257013':
     circonscription_code: ''
@@ -6949,6 +7438,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "Karva\u0161ov\xE1"
+    organes: []
     ref: '257013'
   '257014':
     circonscription_code: ''
@@ -6963,6 +7453,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "Cifrov\xE1 Ostriho\u0148ov\xE1"
+    organes: []
     ref: '257014'
   '257015':
     circonscription_code: ''
@@ -6977,6 +7468,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: "Asens Llodr\xE0"
+    organes: []
     ref: '257015'
   '257016':
     circonscription_code: ''
@@ -6991,6 +7483,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: "Marz\xE0 Ib\xE1\xF1ez"
+    organes: []
     ref: '257016'
   '257018':
     circonscription_code: ''
@@ -7005,6 +7498,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: "Ondru\u0161"
+    organes: []
     ref: '257018'
   '257019':
     circonscription_code: ''
@@ -7019,6 +7513,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: "P\xE9rez"
+    organes: []
     ref: '257019'
   '257020':
     circonscription_code: ''
@@ -7033,6 +7528,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Bosse
+    organes: []
     ref: '257020'
   '257021':
     circonscription_code: ''
@@ -7048,6 +7544,7 @@ members:
     group_name: "Non-inscrits; Groupe des Conservateurs et R\xE9formistes europ\xE9\
       ens"
     last_name: Solier
+    organes: []
     ref: '257021'
   '257022':
     circonscription_code: ''
@@ -7062,6 +7559,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens; Non-inscrits"
     last_name: "Junco Garc\xEDa"
+    organes: []
     ref: '257022'
   '257023':
     circonscription_code: ''
@@ -7076,6 +7574,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Clausen
+    organes: []
     ref: '257023'
   '257024':
     circonscription_code: ''
@@ -7090,6 +7589,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Borr\xE1s Pab\xF3n"
+    organes: []
     ref: '257024'
   '257025':
     circonscription_code: ''
@@ -7104,6 +7604,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Storm
+    organes: []
     ref: '257025'
   '257026':
     circonscription_code: ''
@@ -7118,6 +7619,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Szczerba
+    organes: []
     ref: '257026'
   '257027':
     circonscription_code: ''
@@ -7132,6 +7634,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Navarrete Rojas
+    organes: []
     ref: '257027'
   '257028':
     circonscription_code: ''
@@ -7146,6 +7649,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Dahl
+    organes: []
     ref: '257028'
   '257029':
     circonscription_code: ''
@@ -7160,6 +7664,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Mart\xEDn Fr\xEDas"
+    organes: []
     ref: '257029'
   '257030':
     circonscription_code: ''
@@ -7174,6 +7679,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: de la Hoz Quintano
+    organes: []
     ref: '257030'
   '257031':
     circonscription_code: ''
@@ -7188,6 +7694,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Jo\u0144ski"
+    organes: []
     ref: '257031'
   '257032':
     circonscription_code: ''
@@ -7202,6 +7709,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Gasiuk-Pihowicz
+    organes: []
     ref: '257032'
   '257033':
     circonscription_code: ''
@@ -7216,6 +7724,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Hansen
+    organes: []
     ref: '257033'
   '257034':
     circonscription_code: ''
@@ -7230,6 +7739,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Crespo D\xEDaz"
+    organes: []
     ref: '257034'
   '257035':
     circonscription_code: ''
@@ -7244,6 +7754,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Ezcurra Almansa
+    organes: []
     ref: '257035'
   '257037':
     circonscription_code: ''
@@ -7258,6 +7769,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Kobosko
+    organes: []
     ref: '257037'
   '257038':
     circonscription_code: ''
@@ -7272,6 +7784,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Friis
+    organes: []
     ref: '257038'
   '257039':
     circonscription_code: ''
@@ -7286,6 +7799,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Nevado del Campo
+    organes: []
     ref: '257039'
   '257040':
     circonscription_code: ''
@@ -7300,6 +7814,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Pascual de la Parte
+    organes: []
     ref: '257040'
   '257041':
     circonscription_code: ''
@@ -7314,6 +7829,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Protas
+    organes: []
     ref: '257041'
   '257042':
     circonscription_code: ''
@@ -7328,6 +7844,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Kierwi\u0144ski"
+    organes: []
     ref: '257042'
   '257043':
     circonscription_code: ''
@@ -7342,6 +7859,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Abad\xEDa Jover"
+    organes: []
     ref: '257043'
   '257044':
     circonscription_code: ''
@@ -7356,6 +7874,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Nordqvist
+    organes: []
     ref: '257044'
   '257045':
     circonscription_code: ''
@@ -7370,6 +7889,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Wawrykiewicz
+    organes: []
     ref: '257045'
   '257046':
     circonscription_code: ''
@@ -7384,6 +7904,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Wcis\u0142o"
+    organes: []
     ref: '257046'
   '257047':
     circonscription_code: ''
@@ -7398,6 +7919,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Budka
+    organes: []
     ref: '257047'
   '257048':
     circonscription_code: ''
@@ -7412,6 +7934,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Do Nascimento Cabral
+    organes: []
     ref: '257048'
   '257049':
     circonscription_code: ''
@@ -7426,6 +7949,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Nykiel
+    organes: []
     ref: '257049'
   '257050':
     circonscription_code: ''
@@ -7440,6 +7964,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "T\xE2nger Corr\xEAa"
+    organes: []
     ref: '257050'
   '257051':
     circonscription_code: ''
@@ -7454,6 +7979,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Bu\u0142a"
+    organes: []
     ref: '257051'
   '257052':
     circonscription_code: ''
@@ -7468,6 +7994,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "W\u0105sik"
+    organes: []
     ref: '257052'
   '257053':
     circonscription_code: ''
@@ -7483,6 +8010,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Mendes
+    organes: []
     ref: '257053'
   '257054':
     circonscription_code: ''
@@ -7497,6 +8025,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Moreira de S\xE1"
+    organes: []
     ref: '257054'
   '257055':
     circonscription_code: ''
@@ -7511,6 +8040,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Gosiewska
+    organes: []
     ref: '257055'
   '257056':
     circonscription_code: ''
@@ -7525,6 +8055,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Kami\u0144ski"
+    organes: []
     ref: '257056'
   '257057':
     circonscription_code: ''
@@ -7539,6 +8070,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Cotrim De Figueiredo
+    organes: []
     ref: '257057'
   '257058':
     circonscription_code: ''
@@ -7553,6 +8085,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Obajtek
+    organes: []
     ref: '257058'
   '257059':
     circonscription_code: ''
@@ -7568,6 +8101,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Gon\xE7alves"
+    organes: []
     ref: '257059'
   '257060':
     circonscription_code: ''
@@ -7582,6 +8116,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Mularczyk
+    organes: []
     ref: '257060'
   '257061':
     circonscription_code: ''
@@ -7596,6 +8131,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Vasconcelos
+    organes: []
     ref: '257061'
   '257062':
     circonscription_code: ''
@@ -7610,6 +8146,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Tyszka
+    organes: []
     ref: '257062'
   '257063':
     circonscription_code: ''
@@ -7624,6 +8161,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Martins
+    organes: []
     ref: '257063'
   '257064':
     circonscription_code: ''
@@ -7638,6 +8176,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe; Non-inscrits"
     last_name: "Bry\u0142ka"
+    organes: []
     ref: '257064'
   '257065':
     circonscription_code: ''
@@ -7652,6 +8191,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Humberto
+    organes: []
     ref: '257065'
   '257066':
     circonscription_code: ''
@@ -7667,6 +8207,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Rodrigues
+    organes: []
     ref: '257066'
   '257067':
     circonscription_code: ''
@@ -7681,6 +8222,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Braun
+    organes: []
     ref: '257067'
   '257068':
     circonscription_code: ''
@@ -7695,6 +8237,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Sousa Silva
+    organes: []
     ref: '257068'
   '257069':
     circonscription_code: ''
@@ -7709,6 +8252,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: "Zaj\u0105czkowska-Hernik"
+    organes: []
     ref: '257069'
   '257070':
     circonscription_code: ''
@@ -7723,6 +8267,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Sypniewski
+    organes: []
     ref: '257070'
   '257071':
     circonscription_code: ''
@@ -7738,6 +8283,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Tavares
+    organes: []
     ref: '257071'
   '257072':
     circonscription_code: ''
@@ -7752,6 +8298,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe; Non-inscrits"
     last_name: Buczek
+    organes: []
     ref: '257072'
   '257073':
     circonscription_code: ''
@@ -7766,6 +8313,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Boche\u0144ski"
+    organes: []
     ref: '257073'
   '257075':
     circonscription_code: ''
@@ -7781,6 +8329,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Gomes
+    organes: []
     ref: '257075'
   '257076':
     circonscription_code: ''
@@ -7795,6 +8344,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Dworczyk
+    organes: []
     ref: '257076'
   '257077':
     circonscription_code: ''
@@ -7809,6 +8359,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Mal\u0105g"
+    organes: []
     ref: '257077'
   '257078':
     circonscription_code: ''
@@ -7823,6 +8374,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Cunha
+    organes: []
     ref: '257078'
   '257079':
     circonscription_code: ''
@@ -7838,6 +8390,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Gon\xE7alves"
+    organes: []
     ref: '257079'
   '257080':
     circonscription_code: ''
@@ -7852,6 +8405,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "M\xFCller"
+    organes: []
     ref: '257080'
   '257081':
     circonscription_code: ''
@@ -7866,6 +8420,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Bugalho
+    organes: []
     ref: '257081'
   '257082':
     circonscription_code: ''
@@ -7880,6 +8435,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Marczu\u0142ajtis-Walczak"
+    organes: []
     ref: '257082'
   '257083':
     circonscription_code: ''
@@ -7894,6 +8450,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Oliveira
+    organes: []
     ref: '257083'
   '257084':
     circonscription_code: ''
@@ -7909,6 +8466,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Scheuring-Wielgus
+    organes: []
     ref: '257084'
   '257085':
     circonscription_code: ''
@@ -7924,6 +8482,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "\u015Amiszek"
+    organes: []
     ref: '257085'
   '257086':
     circonscription_code: ''
@@ -7938,6 +8497,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Ozdoba
+    organes: []
     ref: '257086'
   '257087':
     circonscription_code: ''
@@ -7953,6 +8513,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Dibrani
+    organes: []
     ref: '257087'
   '257088':
     circonscription_code: ''
@@ -7968,6 +8529,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Eriksson
+    organes: []
     ref: '257088'
   '257089':
     circonscription_code: ''
@@ -7982,6 +8544,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Teodorescu M\xE5we"
+    organes: []
     ref: '257089'
   '257090':
     circonscription_code: ''
@@ -7996,6 +8559,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Timgren
+    organes: []
     ref: '257090'
   '257091':
     circonscription_code: ''
@@ -8010,6 +8574,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Erixon
+    organes: []
     ref: '257091'
   '257092':
     circonscription_code: ''
@@ -8024,6 +8589,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Gedin
+    organes: []
     ref: '257092'
   '257093':
     circonscription_code: ''
@@ -8038,6 +8604,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Ciccioli
+    organes: []
     ref: '257093'
   '257094':
     circonscription_code: ''
@@ -8052,6 +8619,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Crosetto
+    organes: []
     ref: '257094'
   '257095':
     circonscription_code: ''
@@ -8066,6 +8634,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Donazzan
+    organes: []
     ref: '257095'
   '257096':
     circonscription_code: ''
@@ -8080,6 +8649,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Cavedagna
+    organes: []
     ref: '257096'
   '257097':
     circonscription_code: ''
@@ -8094,6 +8664,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Gambino
+    organes: []
     ref: '257097'
   '257098':
     circonscription_code: ''
@@ -8109,6 +8680,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Firea
+    organes: []
     ref: '257098'
   '257099':
     circonscription_code: ''
@@ -8123,6 +8695,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Ventola
+    organes: []
     ref: '257099'
   '257100':
     circonscription_code: ''
@@ -8138,6 +8711,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "C\xE2rciu"
+    organes: []
     ref: '257100'
   '257101':
     circonscription_code: ''
@@ -8153,6 +8727,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Strada
+    organes: []
     ref: '257101'
   '257102':
     circonscription_code: ''
@@ -8168,6 +8743,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Gori
+    organes: []
     ref: '257102'
   '257103':
     circonscription_code: ''
@@ -8183,6 +8759,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Mu\u015Foiu"
+    organes: []
     ref: '257103'
   '257104':
     circonscription_code: ''
@@ -8197,6 +8774,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Razza
+    organes: []
     ref: '257104'
   '257105':
     circonscription_code: ''
@@ -8212,6 +8790,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "M\xEEnzatu"
+    organes: []
     ref: '257105'
   '257106':
     circonscription_code: ''
@@ -8227,6 +8806,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Zan
+    organes: []
     ref: '257106'
   '257107':
     circonscription_code: ''
@@ -8241,6 +8821,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Popescu
+    organes: []
     ref: '257107'
   '257108':
     circonscription_code: ''
@@ -8256,6 +8837,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Bonaccini
+    organes: []
     ref: '257108'
   '257109':
     circonscription_code: ''
@@ -8270,6 +8852,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Squarta
+    organes: []
     ref: '257109'
   '257110':
     circonscription_code: ''
@@ -8284,6 +8867,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Barna
+    organes: []
     ref: '257110'
   '257111':
     circonscription_code: ''
@@ -8299,6 +8883,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Nardella
+    organes: []
     ref: '257111'
   '257112':
     circonscription_code: ''
@@ -8313,6 +8898,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Vasile-Voiculescu
+    organes: []
     ref: '257112'
   '257113':
     circonscription_code: ''
@@ -8327,6 +8913,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Sberna
+    organes: []
     ref: '257113'
   '257114':
     circonscription_code: ''
@@ -8341,6 +8928,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "T\xE2rziu"
+    organes: []
     ref: '257114'
   '257115':
     circonscription_code: ''
@@ -8355,6 +8943,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Piperea
+    organes: []
     ref: '257115'
   '257116':
     circonscription_code: ''
@@ -8369,6 +8958,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Teodorescu
+    organes: []
     ref: '257116'
   '257117':
     circonscription_code: ''
@@ -8383,6 +8973,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Axinia
+    organes: []
     ref: '257117'
   '257118':
     circonscription_code: ''
@@ -8397,6 +8988,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Lazarus
+    organes: []
     ref: '257118'
   '257119':
     circonscription_code: ''
@@ -8411,6 +9003,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Sturdza
+    organes: []
     ref: '257119'
   '257120':
     circonscription_code: ''
@@ -8425,6 +9018,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: "Iovanovici \u015Eo\u015Foac\u0103"
+    organes: []
     ref: '257120'
   '257121':
     circonscription_code: ''
@@ -8440,6 +9034,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Ricci
+    organes: []
     ref: '257121'
   '257122':
     circonscription_code: ''
@@ -8455,6 +9050,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Decaro
+    organes: []
     ref: '257122'
   '257123':
     circonscription_code: ''
@@ -8470,6 +9066,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Annunziata
+    organes: []
     ref: '257123'
   '257124':
     circonscription_code: ''
@@ -8485,6 +9082,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Lupo
+    organes: []
     ref: '257124'
   '257125':
     circonscription_code: ''
@@ -8499,6 +9097,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Vannacci
+    organes: []
     ref: '257125'
   '257126':
     circonscription_code: ''
@@ -8513,6 +9112,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Pedulla'
+    organes: []
     ref: '257126'
   '257127':
     circonscription_code: ''
@@ -8527,6 +9127,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Salis
+    organes: []
     ref: '257127'
   '257128':
     circonscription_code: ''
@@ -8541,6 +9142,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Princi
+    organes: []
     ref: '257128'
   '257129':
     circonscription_code: ''
@@ -8555,6 +9157,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Lucano
+    organes: []
     ref: '257129'
   '257130':
     circonscription_code: ''
@@ -8569,6 +9172,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Guarda
+    organes: []
     ref: '257130'
   '257131':
     circonscription_code: ''
@@ -8583,6 +9187,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Cisint
+    organes: []
     ref: '257131'
   '257132':
     circonscription_code: ''
@@ -8597,6 +9202,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Marino
+    organes: []
     ref: '257132'
   '257133':
     circonscription_code: ''
@@ -8611,6 +9217,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Tridico
+    organes: []
     ref: '257133'
   '257135':
     circonscription_code: ''
@@ -8625,6 +9232,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Palmisano
+    organes: []
     ref: '257135'
   '257137':
     circonscription_code: ''
@@ -8639,6 +9247,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Falcone
+    organes: []
     ref: '257137'
   '257138':
     circonscription_code: ''
@@ -8653,6 +9262,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Antoci
+    organes: []
     ref: '257138'
   '257139':
     circonscription_code: ''
@@ -8667,6 +9277,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Scuderi
+    organes: []
     ref: '257139'
   '257140':
     circonscription_code: ''
@@ -8681,6 +9292,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Morace
+    organes: []
     ref: '257140'
   '257143':
     circonscription_code: ''
@@ -8695,6 +9307,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Vivaldini
+    organes: []
     ref: '257143'
   '257144':
     circonscription_code: ''
@@ -8709,6 +9322,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Inselvini
+    organes: []
     ref: '257144'
   '257145':
     circonscription_code: ''
@@ -8723,6 +9337,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Polato
+    organes: []
     ref: '257145'
   '257147':
     circonscription_code: ''
@@ -8737,6 +9352,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Ciriani
+    organes: []
     ref: '257147'
   '257148':
     circonscription_code: ''
@@ -8752,6 +9368,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Topo
+    organes: []
     ref: '257148'
   '257149':
     circonscription_code: ''
@@ -8766,6 +9383,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Magoni
+    organes: []
     ref: '257149'
   '257150':
     circonscription_code: ''
@@ -8780,6 +9398,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Picaro
+    organes: []
     ref: '257150'
   '257151':
     circonscription_code: ''
@@ -8794,6 +9413,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Moratti
+    organes: []
     ref: '257151'
   '257155':
     circonscription_code: ''
@@ -8808,6 +9428,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Della Valle
+    organes: []
     ref: '257155'
   '257160':
     circonscription_code: ''
@@ -8823,6 +9444,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Tarquinio
+    organes: []
     ref: '257160'
   '257163':
     circonscription_code: ''
@@ -8837,6 +9459,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Torselli
+    organes: []
     ref: '257163'
   '257169':
     circonscription_code: ''
@@ -8852,6 +9475,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Corrado
+    organes: []
     ref: '257169'
   '257170':
     circonscription_code: ''
@@ -8867,6 +9491,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Ruotolo
+    organes: []
     ref: '257170'
   '257237':
     circonscription_code: ''
@@ -8881,6 +9506,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Doherty
+    organes: []
     ref: '257237'
   '257238':
     circonscription_code: ''
@@ -8896,6 +9522,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "\xD3 R\xEDord\xE1in"
+    organes: []
     ref: '257238'
   '257255':
     circonscription_code: ''
@@ -8910,6 +9537,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Stoyanov
+    organes: []
     ref: '257255'
   '257256':
     circonscription_code: ''
@@ -8924,6 +9552,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe; Non-inscrits
     last_name: Kabilov
+    organes: []
     ref: '257256'
   '257257':
     circonscription_code: ''
@@ -8938,6 +9567,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Petrov
+    organes: []
     ref: '257257'
   '257258':
     circonscription_code: ''
@@ -8952,6 +9582,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Valchev
+    organes: []
     ref: '257258'
   '257259':
     circonscription_code: ''
@@ -8966,6 +9597,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Minchev
+    organes: []
     ref: '257259'
   '257260':
     circonscription_code: ''
@@ -8980,6 +9612,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Volgin
+    organes: []
     ref: '257260'
   '257261':
     circonscription_code: ''
@@ -8994,6 +9627,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Lazarov
+    organes: []
     ref: '257261'
   '257262':
     circonscription_code: ''
@@ -9008,6 +9642,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Laykova
+    organes: []
     ref: '257262'
   '257296':
     circonscription_code: ''
@@ -9022,6 +9657,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Carberry
+    organes: []
     ref: '257296'
   '257297':
     circonscription_code: ''
@@ -9036,6 +9672,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Cowen
+    organes: []
     ref: '257297'
   '257298':
     circonscription_code: ''
@@ -9050,6 +9687,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Mullooly
+    organes: []
     ref: '257298'
   '257299':
     circonscription_code: ''
@@ -9064,6 +9702,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Funchion
+    organes: []
     ref: '257299'
   '257300':
     circonscription_code: ''
@@ -9078,6 +9717,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: McNamara
+    organes: []
     ref: '257300'
   '257301':
     circonscription_code: ''
@@ -9092,6 +9732,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "N\xED Mhurch\xFA"
+    organes: []
     ref: '257301'
   '257437':
     circonscription_code: ''
@@ -9106,6 +9747,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Vieira
+    organes: []
     ref: '257437'
   '257438':
     circonscription_code: ''
@@ -9120,6 +9762,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Van Brug
+    organes: []
     ref: '257438'
   '257457':
     circonscription_code: ''
@@ -9134,6 +9777,7 @@ members:
     group_abv: ''
     group_name: "Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: "Borvend\xE9g"
+    organes: []
     ref: '257457'
   '25758':
     circonscription_code: ''
@@ -9148,6 +9792,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: Firmenich
+    organes: []
     ref: '25758'
   '257727':
     circonscription_code: ''
@@ -9163,6 +9808,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Maran
+    organes: []
     ref: '257727'
   '260035':
     circonscription_code: ''
@@ -9178,6 +9824,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Ve\u0161ligaj"
+    organes: []
     ref: '260035'
   '260724':
     circonscription_code: ''
@@ -9192,6 +9839,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "D\xF6m\xF6t\xF6r"
+    organes: []
     ref: '260724'
   '261038':
     circonscription_code: ''
@@ -9206,6 +9854,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Kub\xEDn"
+    organes: []
     ref: '261038'
   '261796':
     circonscription_code: ''
@@ -9220,6 +9869,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Werbrouck
+    organes: []
     ref: '261796'
   '261797':
     circonscription_code: ''
@@ -9234,6 +9884,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Bay
+    organes: []
     ref: '261797'
   '262021':
     circonscription_code: ''
@@ -9248,6 +9899,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Gronkiewicz-Waltz
+    organes: []
     ref: '262021'
   '267485':
     circonscription_code: ''
@@ -9262,6 +9914,7 @@ members:
     group_abv: ''
     group_name: "Non-inscrits; Groupe \xABL'Europe des nations souveraines\xBB (ENS)"
     last_name: Schnurrbusch
+    organes: []
     ref: '267485'
   '270261':
     circonscription_code: ''
@@ -9276,6 +9929,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Knot
+    organes: []
     ref: '270261'
   '270719':
     circonscription_code: ''
@@ -9290,6 +9944,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: "G\xFCnther"
+    organes: []
     ref: '270719'
   '272024':
     circonscription_code: ''
@@ -9304,6 +9959,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Stan\u011Bk"
+    organes: []
     ref: '272024'
   '28122':
     circonscription_code: ''
@@ -9318,6 +9974,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Casa
+    organes: []
     ref: '28122'
   '28150':
     circonscription_code: ''
@@ -9332,6 +9989,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "G\xE1l"
+    organes: []
     ref: '28150'
   '28219':
     circonscription_code: ''
@@ -9346,6 +10004,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Caspary
+    organes: []
     ref: '28219'
   '28223':
     circonscription_code: ''
@@ -9360,6 +10019,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Schwab
+    organes: []
     ref: '28223'
   '28226':
     circonscription_code: ''
@@ -9374,6 +10034,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Ehler
+    organes: []
     ref: '28226'
   '28229':
     circonscription_code: ''
@@ -9388,6 +10049,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Weber
+    organes: []
     ref: '28229'
   '28298':
     circonscription_code: ''
@@ -9403,6 +10065,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Garc\xEDa P\xE9rez"
+    organes: []
     ref: '28298'
   '28307':
     circonscription_code: ''
@@ -9418,6 +10081,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Assis
+    organes: []
     ref: '28307'
   '28347':
     circonscription_code: ''
@@ -9433,6 +10097,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Moreno S\xE1nchez"
+    organes: []
     ref: '28347'
   '28390':
     circonscription_code: ''
@@ -9447,6 +10112,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: del Castillo Vera
+    organes: []
     ref: '28390'
   '28399':
     circonscription_code: ''
@@ -9461,6 +10127,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "L\xF3pez-Ist\xFAriz White"
+    organes: []
     ref: '28399'
   '28400':
     circonscription_code: ''
@@ -9475,6 +10142,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Mill\xE1n Mon"
+    organes: []
     ref: '28400'
   '28419':
     circonscription_code: ''
@@ -9490,6 +10158,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Zingaretti
+    organes: []
     ref: '28419'
   '28615':
     circonscription_code: ''
@@ -9504,6 +10173,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: "Z\u012Ble"
+    organes: []
     ref: '28615'
   '28617':
     circonscription_code: ''
@@ -9518,6 +10188,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Vaidere
+    organes: []
     ref: '28617'
   '30123':
     circonscription_code: ''
@@ -9532,6 +10203,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Peltier
+    organes: []
     ref: '30123'
   '30482':
     circonscription_code: ''
@@ -9546,6 +10218,7 @@ members:
     group_abv: ''
     group_name: "Le groupe de la gauche au Parlement europ\xE9en - GUE/NGL"
     last_name: Omarjee
+    organes: []
     ref: '30482'
   '33998':
     circonscription_code: ''
@@ -9561,6 +10234,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "D\xEEncu"
+    organes: []
     ref: '33998'
   '34232':
     circonscription_code: ''
@@ -9576,6 +10250,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Vigenin
+    organes: []
     ref: '34232'
   '36392':
     circonscription_code: ''
@@ -9590,6 +10265,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Patriciello
+    organes: []
     ref: '36392'
   '37312':
     circonscription_code: ''
@@ -9605,6 +10281,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Schaldemose
+    organes: []
     ref: '37312'
   '37324':
     circonscription_code: ''
@@ -9619,6 +10296,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "V\u0103lean"
+    organes: []
     ref: '37324'
   '38511':
     circonscription_code: ''
@@ -9633,6 +10311,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Mayer
+    organes: []
     ref: '38511'
   '38542':
     circonscription_code: ''
@@ -9648,6 +10327,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Danielsson
+    organes: []
     ref: '38542'
   '39725':
     circonscription_code: ''
@@ -9662,6 +10342,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Winkler
+    organes: []
     ref: '39725'
   '40224':
     circonscription_code: ''
@@ -9677,6 +10358,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Cristea
+    organes: []
     ref: '40224'
   '40599':
     circonscription_code: ''
@@ -9691,6 +10373,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Pietik\xE4inen"
+    organes: []
     ref: '40599'
   '4267':
     circonscription_code: ''
@@ -9706,6 +10389,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Bullmann
+    organes: []
     ref: '4267'
   '4289':
     circonscription_code: ''
@@ -9720,6 +10404,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Niebler
+    organes: []
     ref: '4289'
   '4395':
     circonscription_code: ''
@@ -9734,6 +10419,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Mantovani
+    organes: []
     ref: '4395'
   '4746':
     circonscription_code: ''
@@ -9748,6 +10434,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Berlato
+    organes: []
     ref: '4746'
   '5392':
     circonscription_code: ''
@@ -9763,6 +10450,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Wolters
+    organes: []
     ref: '5392'
   '5729':
     circonscription_code: ''
@@ -9778,6 +10466,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Van Brempt
+    organes: []
     ref: '5729'
   '5736':
     circonscription_code: ''
@@ -9792,6 +10481,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Varaut
+    organes: []
     ref: '5736'
   '58766':
     circonscription_code: ''
@@ -9806,6 +10496,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: "\u0218tef\u0103nu\u021B\u0103"
+    organes: []
     ref: '58766'
   '72779':
     circonscription_code: ''
@@ -9820,6 +10511,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Morano
+    organes: []
     ref: '72779'
   '840':
     circonscription_code: ''
@@ -9834,6 +10526,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Goerens
+    organes: []
     ref: '840'
   '86057':
     circonscription_code: ''
@@ -9848,6 +10541,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Sienkiewicz
+    organes: []
     ref: '86057'
   '86793':
     circonscription_code: ''
@@ -9862,6 +10556,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Cavazzini
+    organes: []
     ref: '86793'
   '88552':
     circonscription_code: ''
@@ -9876,6 +10571,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Sanchez
+    organes: []
     ref: '88552'
   '88882':
     circonscription_code: ''
@@ -9891,6 +10587,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Negrescu
+    organes: []
     ref: '88882'
   '91636':
     circonscription_code: ''
@@ -9906,6 +10603,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Maij
+    organes: []
     ref: '91636'
   '94649':
     circonscription_code: ''
@@ -9920,6 +10618,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Griset
+    organes: []
     ref: '94649'
   '95074':
     circonscription_code: ''
@@ -9934,6 +10633,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Lenaers
+    organes: []
     ref: '95074'
   '96653':
     circonscription_code: ''
@@ -9948,6 +10648,7 @@ members:
     group_abv: ''
     group_name: Non-inscrits
     last_name: "Roth Neve\u010Falov\xE1"
+    organes: []
     ref: '96653'
   '96668':
     circonscription_code: ''
@@ -9962,6 +10663,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Kelly
+    organes: []
     ref: '96668'
   '96675':
     circonscription_code: ''
@@ -9976,6 +10678,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: "L\xF6vin"
+    organes: []
     ref: '96675'
   '96681':
     circonscription_code: ''
@@ -9991,6 +10694,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "Blinkevi\u010Di\u016Bt\u0117"
+    organes: []
     ref: '96681'
   '96697':
     circonscription_code: ''
@@ -10005,6 +10709,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Tomaszewski
+    organes: []
     ref: '96697'
   '96709':
     circonscription_code: ''
@@ -10019,6 +10724,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: "L\xF8kkegaard"
+    organes: []
     ref: '96709'
   '96711':
     circonscription_code: ''
@@ -10033,6 +10739,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Canfin
+    organes: []
     ref: '96711'
   '96725':
     circonscription_code: ''
@@ -10047,6 +10754,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Eickhout
+    organes: []
     ref: '96725'
   '96752':
     circonscription_code: ''
@@ -10061,6 +10769,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: "H\xE4usling"
+    organes: []
     ref: '96752'
   '96756':
     circonscription_code: ''
@@ -10075,6 +10784,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Verheyen
+    organes: []
     ref: '96756'
   '96761':
     circonscription_code: ''
@@ -10089,6 +10799,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Voss
+    organes: []
     ref: '96761'
   '96780':
     circonscription_code: ''
@@ -10103,6 +10814,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Hohlmeier
+    organes: []
     ref: '96780'
   '96787':
     circonscription_code: ''
@@ -10117,6 +10829,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Dorfmann
+    organes: []
     ref: '96787'
   '96791':
     circonscription_code: ''
@@ -10131,6 +10844,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "\u0141ukacijewska"
+    organes: []
     ref: '96791'
   '96808':
     circonscription_code: ''
@@ -10145,6 +10859,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Arias Echeverr\xEDa"
+    organes: []
     ref: '96808'
   '96810':
     circonscription_code: ''
@@ -10159,6 +10874,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Fidanza
+    organes: []
     ref: '96810'
   '96811':
     circonscription_code: ''
@@ -10173,6 +10889,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "Estar\xE0s Ferragut"
+    organes: []
     ref: '96811'
   '96812':
     circonscription_code: ''
@@ -10188,6 +10905,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: "L\xF3pez Aguilar"
+    organes: []
     ref: '96812'
   '96826':
     circonscription_code: ''
@@ -10202,6 +10920,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: Deutsch
+    organes: []
     ref: '96826'
   '96830':
     circonscription_code: ''
@@ -10216,6 +10935,7 @@ members:
     group_abv: ''
     group_name: "Groupe Patriotes pour l\u2019Europe"
     last_name: "Gy\u0151ri"
+    organes: []
     ref: '96830'
   '96833':
     circonscription_code: ''
@@ -10231,6 +10951,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Geier
+    organes: []
     ref: '96833'
   '96932':
     circonscription_code: ''
@@ -10246,6 +10967,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Sippel
+    organes: []
     ref: '96932'
   '96933':
     circonscription_code: ''
@@ -10260,6 +10982,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Zver
+    organes: []
     ref: '96933'
   '96934':
     circonscription_code: ''
@@ -10274,6 +10997,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Kalniete
+    organes: []
     ref: '96934'
   '96936':
     circonscription_code: ''
@@ -10288,6 +11012,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Mato
+    organes: []
     ref: '96936'
   '96940':
     circonscription_code: ''
@@ -10302,6 +11027,7 @@ members:
     group_abv: ''
     group_name: Groupe Renew Europe
     last_name: Gerbrandy
+    organes: []
     ref: '96940'
   '96998':
     circonscription_code: ''
@@ -10317,6 +11043,7 @@ members:
     group_name: "Groupe de l'Alliance Progressiste des Socialistes et D\xE9mocrates\
       \ au Parlement europ\xE9en"
     last_name: Regner
+    organes: []
     ref: '96998'
   '97236':
     circonscription_code: ''
@@ -10331,6 +11058,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Verts/Alliance libre europ\xE9enne"
     last_name: Toussaint
+    organes: []
     ref: '97236'
   '97399':
     circonscription_code: ''
@@ -10345,6 +11073,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Gotink
+    organes: []
     ref: '97399'
   '97968':
     circonscription_code: ''
@@ -10359,6 +11088,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Kovatchev
+    organes: []
     ref: '97968'
   '98219':
     circonscription_code: ''
@@ -10373,6 +11103,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Salla
+    organes: []
     ref: '98219'
   '98341':
     circonscription_code: ''
@@ -10387,6 +11118,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Maydell
+    organes: []
     ref: '98341'
   '98582':
     circonscription_code: ''
@@ -10401,6 +11133,7 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: Vincze
+    organes: []
     ref: '98582'
   '99878':
     circonscription_code: ''
@@ -10415,6 +11148,7 @@ members:
     group_abv: ''
     group_name: "Groupe des Conservateurs et R\xE9formistes europ\xE9ens"
     last_name: Buda
+    organes: []
     ref: '99878'
   '99945':
     circonscription_code: ''
@@ -10429,7 +11163,8 @@ members:
     group_abv: ''
     group_name: "Groupe du Parti populaire europ\xE9en (D\xE9mocrates-Chr\xE9tiens)"
     last_name: "D\xFCpont"
+    organes: []
     ref: '99945'
 metadata:
   count: 735
-  last_updated: '2026-03-01T05:11:38.585055'
+  last_updated: '2026-03-08T18:21:33.159234'
