@@ -38,14 +38,14 @@ Les informations sur les députés proviennent de sources publiques :
 - **Députés et circonscriptions** : [data.assemblee-nationale.fr](https://data.assemblee-nationale.fr/acteurs/deputes-en-exercice)
 - **Géolocalisation** : [API Adresse](https://adresse.data.gouv.fr)
 
-Les données sont mises à jour mensuellement. Si vous constatez une erreur, merci de [signaler le problème](https://github.com/zizanibot/InterpelMail/issues).
+Les données sont mises à jour mensuellement. Si vous constatez une erreur, merci de [signaler le problème](https://github.com/capsaicine-dev/InterpelMail/issues).
 
 ## Open Source
 
 Ce projet est **open source** sous licence MIT.
 
-- **Code source** : [github.com/zizanibot/InterpelMail](https://github.com/zizanibot/InterpelMail)
-- **Signaler un bug** : [Créer une issue](https://github.com/zizanibot/InterpelMail/issues)
+- **Code source** : [github.com/capsaicine-dev/InterpelMail](https://github.com/capsaicine-dev/InterpelMail)
+- **Signaler un bug** : [Créer une issue](https://github.com/capsaicine-dev/InterpelMail/issues)
 
 ## Technologies utilisées
 
@@ -55,8 +55,12 @@ Ce projet est **open source** sous licence MIT.
 
 ## Contact
 
-Pour toute question ou suggestion : [Ouvrir une issue GitHub](https://github.com/zizanibot/InterpelMail/issues)
+Pour toute question ou suggestion : [Ouvrir une issue GitHub](https://github.com/capsaicine-dev/InterpelMail/issues)
+
+## Contributions
+
+- **Murdock le fou** : webdesign
 
 ---
 
-*Dernière mise à jour : Mars 2026*
+*Dernière mise à jour : Avril 2026*

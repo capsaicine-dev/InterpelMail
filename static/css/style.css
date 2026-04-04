@@ -28,9 +28,18 @@ button {
     cursor: pointer;
     border-radius: 4px;
 }
+
 button:hover {
     background: #0f877c;
 }
+
+button:disabled,
+button[disabled]{
+	background-color: #cccccc;
+	color: #666666;
+	cursor: not-allowed;
+}
+
 
 .find-elected {
     width: 100%;
@@ -222,4 +231,21 @@ form small {
 
 .italic {
 	font-style: italic;
+}
+
+dialog {
+    left: 50%;
+	transform: translate(-50%);
+}
+
+dialog::backdrop {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.email-content {
+    white-space: break-spaces;
+}
+
+h2 {
+	margin-bottom: 15px;
 }

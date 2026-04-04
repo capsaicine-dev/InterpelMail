@@ -14,6 +14,10 @@ const addressData = {};
 const departements = new Map();
 const organes = new Map();
 
+let emails = null;
+let subject = null;
+let body = null;
+
 document.addEventListener("DOMContentLoaded", async function() {
 
 	try {
@@ -113,7 +117,34 @@ document.addEventListener("DOMContentLoaded", async function() {
 	});
 
 	// Send email
-	document.getElementById("send-email").addEventListener("click", sendEmail);
+	document.getElementById("prepare-email").addEventListener("click", prepareEmail);
+
+	// copy buttons
+	document.querySelector(".copy-emails").addEventListener("click", async () => {
+		await copyToClipboard(document.getElementById("emailList").textContent).then(
+			() => { alert("Adresses e-mails copiées dans le presse-papiers."); },
+			() => { alert("Erreur lors de la copie des adresses e-mails dans le presse-papiers."); },
+		);
+	});
+
+	document.querySelector(".copy-content").addEventListener("click", async () => {
+		await copyToClipboard(document.getElementById("emailContent").textContent).then(
+			() => { alert("Corps de l'e-mail copié dans le presse-papiers."); },
+			() => { alert("Erreur lors de la copie du corps de l'e-mail dans le presse-papiers."); },
+		);
+	});
+
+	document.querySelector(".send-email").disabled = true;
+	document.querySelector(".send-email").addEventListener("click", () => {
+		sendEmail(emails, subject, body);
+	});
+
+	const prepareDialog = document.querySelector(".prepare-email-content");
+	prepareDialog.addEventListener("click", (e) => {
+		if (e.target === prepareDialog) {
+			prepareDialog.close();
+		}
+	})
 });
 
 function setDepartementsMap() {
@@ -200,7 +231,7 @@ function setOrganesSelect(key) {
 function resetData() {
 
 	document.getElementById("elected-info").style.display = "none";
-	document.getElementById("send-email").style.display = "none";
+	document.getElementById("prepare-email").style.display = "none";
 	selectedElected = null;
 	locationInformation = null;
 
@@ -292,7 +323,7 @@ function selectAddress(id) {
 function displayElected(electeds) {
 
 	const electedInfo = document.getElementById("elected-info");
-	const sendButton = document.getElementById("send-email");
+	const sendButton = document.getElementById("prepare-email");
 
 	const strong = document.createElement("strong");
 
@@ -537,8 +568,9 @@ function AddGroup(groupKey) {
 	displayElected(electeds);
 }
 
-function sendEmail() {
+function prepareEmail() {
 	const campaignKey = document.getElementById("campaign").value;
+	const dialog = document.querySelector(".prepare-email-content");
 
 	if (!campaignKey) {
 		alert("Veuillez sélectionner une campagne.");
@@ -564,14 +596,46 @@ function sendEmail() {
 	const campaign = window.siteData.campaigns[campaignKey];
 	const names = selectedElectedWithMail
 		.map(elected => `${elected.civ} ${elected.first_name} ${elected.last_name}`).join(", ");
-	const body = campaign.body
+	emails = selectedElectedWithMail
+		.map(elected => elected.email).join(",");
+	subject = campaign.subject;
+	body = campaign.body
 		.replace("[RAISON]", locationInformation)
 		.replace("[ELU]", names)
 		.replace("[INSTITUTION]", institutionInformation);
 
-	const mailtoLink = `mailto:${selectedElectedWithMail
-		.map(elected => elected.email)
-		.join(",")}?subject=${encodeURIComponent(campaign.subject)}&body=${encodeURIComponent(body)}`;
+	dialog.showModal();
+	
+	if (emails && subject && body) {
+		document.querySelector(".send-email").disabled = false;
+	} else {
+		document.querySelector(".send-email").disabled = true;
+	}
+	//document.getElementById("emailList").textContent = emails;
+	document.getElementById("emailContent").innerHTML = body;
+}
 
+function sendEmail(emails, subject, body) {
+	const mailtoLink = `mailto:${emails}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)} `;
 	window.location.href = mailtoLink;
+}
+
+async function copyToClipboard(textToCopy) {
+    // Navigator clipboard api needs a secure context (https)
+    if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(textToCopy);
+    } else {
+        // Use the 'out of viewport hidden text area' trick
+        const textArea = document.createElement("textarea");
+        textArea.value = textToCopy;
+            
+        // Move textarea out of the viewport so it's not visible
+        textArea.style.position = "absolute";
+        textArea.style.left = "-999999px";
+            
+        document.body.prepend(textArea);
+        textArea.select();
+		document.execCommand("copy");
+        textArea.remove();
+    }
 }

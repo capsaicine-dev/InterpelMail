@@ -63,8 +63,36 @@
 	
 	<div id="elected-filter"></div>
 	<div id="elected-info"></div>
-    <button id="send-email" style="display:none;">Interpeler !</button>
+    <button id="prepare-email" style="display:none;">Interpeler !</button>
     <div id="desc"></div>
+
+	<dialog class="prepare-email-content">
+		<h2>Vous pouvez copiez les adresses e-mails et le contenu de l'e-mail:</h2>
+		<div class="email-section">
+			<div id="emailList" class="email-list"></div>
+			<button class="copy-emails">Copier les adresses email dans le presse-papier </button>
+			<div id="emailContent" class="email-content"></div>
+			<button class="copy-content">Copier le contenu du mail dans le presse-papier </button>
+		</div>
+		<h2>Alternativement, vous pouvez envoyer l'e-mail directement:</h2>
+		<div class="send-email-content">
+			<button class="send-email">Envoyer l'email</button>
+		</div>
+		<ul class="tips-list">
+			<li>
+				<strong>Personnalisez vos messages</strong>
+				: Les emails identiques en masse sont souvent ignorés ou filtrés
+			</li>
+			<li>
+				<strong>Restez respectueux</strong>
+				: Exprimez vos opinions de manière constructive
+			</li>
+			<li>
+				<strong>Soyez patients.es</strong> 
+				: Les députés reçoivent beaucoup d’emails et ne peuvent pas répondre à tous.tes
+			</li>
+		</ul>
+	</dialog>
 
     <script>
         deputies = {{ .Site.Data.deputies | jsonify | safeJS }};
