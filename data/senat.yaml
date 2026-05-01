@@ -2079,21 +2079,6 @@ members:
     last_name: Jacquin
     organes: []
     ref: 19551W
-  19553Y:
-    circonscription_code: ''
-    circonscription_name: ''
-    circonscription_num: ''
-    civ: Mme
-    country: France
-    departement_name: Meurthe-et-Moselle
-    departement_num: '54'
-    email: v.guillotin@senat.fr
-    first_name: "V\xE9ronique"
-    group_abv: RDSE
-    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
-    last_name: Guillotin
-    organes: []
-    ref: 19553Y
   19563B:
     circonscription_code: ''
     circonscription_name: ''
@@ -5107,21 +5092,6 @@ members:
     last_name: Basquin
     organes: []
     ref: 21460Q
-  21470S:
-    circonscription_code: ''
-    circonscription_name: ''
-    circonscription_num: ''
-    civ: M.
-    country: France
-    departement_name: Alpes-Maritimes
-    departement_num: '06'
-    email: jm.delia@senat.fr
-    first_name: Jean-Marc
-    group_abv: UMP
-    group_name: "Groupe Les R\xE9publicains"
-    last_name: Delia
-    organes: []
-    ref: 21470S
   21486B:
     circonscription_code: ''
     circonscription_name: ''
@@ -5197,6 +5167,36 @@ members:
     last_name: Mouton
     organes: []
     ref: 21534R
+  21584C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Meurthe-et-Moselle
+    departement_num: '54'
+    email: p.boileau@senat.fr
+    first_name: Pierre
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Boileau
+    organes: []
+    ref: 21584C
+  21592C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Alpes-Maritimes
+    departement_num: '06'
+    email: s.paire@senat.fr
+    first_name: Sandra
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Paire
+    organes: []
+    ref: 21592C
   86034E:
     circonscription_code: ''
     circonscription_name: ''
@@ -5244,4 +5244,4 @@ members:
     ref: 99004R
 metadata:
   count: 348
-  last_updated: '2026-04-01T03:28:33.118977'
+  last_updated: '2026-05-01T04:00:48.363874'
