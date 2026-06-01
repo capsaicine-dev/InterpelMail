@@ -305,9 +305,9 @@ members:
     group_name: "\xC9cologiste et Social"
     last_name: Voynet
     organes:
-    - abg: "D\xE9veloppement durable"
-      abv: CION-DVP
-      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
+    - abg: "Affaires \xE9trang\xE8res"
+      abv: CION_AFETR
+      name: "Commission des affaires \xE9trang\xE8res"
     ref: PA2940
   PA2952:
     circonscription_code: 0803
@@ -323,9 +323,10 @@ members:
     group_name: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     last_name: Warsmann
     organes:
-    - abg: "D\xE9veloppement durable"
-      abv: CION-DVP
-      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA2952
   PA309643:
     circonscription_code: '8504'
@@ -1730,10 +1731,9 @@ members:
     group_name: "Ensemble pour la R\xE9publique"
     last_name: Kasbarian
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: "D\xE9fense"
+      abv: CION_DEF
+      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
     ref: PA719372
   PA719388:
     circonscription_code: '2901'
@@ -1803,9 +1803,9 @@ members:
     group_name: Rassemblement National
     last_name: Meizonnet
     organes:
-    - abg: "Affaires \xE9trang\xE8res"
-      abv: CION_AFETR
-      name: "Commission des affaires \xE9trang\xE8res"
+    - abg: Affaires sociales
+      abv: CION-SOC
+      name: Commission des affaires sociales
     ref: PA719436
   PA719472:
     circonscription_code: '3201'
@@ -1947,9 +1947,10 @@ members:
     group_name: "Les D\xE9mocrates"
     last_name: Mette
     organes:
-    - abg: "Affaires culturelles et \xE9ducation"
-      abv: CION-CEDU
-      name: "Commission des affaires culturelles et de l'\xE9ducation"
+    - abg: Finances
+      abv: CION_FIN
+      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
+        le budg\xE9taire"
     ref: PA719640
   PA719756:
     circonscription_code: '3505'
@@ -2710,10 +2711,9 @@ members:
     group_name: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     last_name: Serva
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: "D\xE9veloppement durable"
+      abv: CION-DVP
+      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA720960
   PA720976:
     circonscription_code: '97103'
@@ -2950,9 +2950,10 @@ members:
     group_name: "Ensemble pour la R\xE9publique"
     last_name: Gouffier Valente
     organes:
-    - abg: "Affaires culturelles et \xE9ducation"
-      abv: CION-CEDU
-      name: "Commission des affaires culturelles et de l'\xE9ducation"
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA721296
   PA721314:
     circonscription_code: '6804'
@@ -3337,9 +3338,10 @@ members:
     group_name: "Les D\xE9mocrates"
     last_name: Latombe
     organes:
-    - abg: "Affaires culturelles et \xE9ducation"
-      abv: CION-CEDU
-      name: "Commission des affaires culturelles et de l'\xE9ducation"
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA721984
   PA722000:
     circonscription_code: '8503'
@@ -3537,9 +3539,9 @@ members:
     group_name: "Horizons & Ind\xE9pendants"
     last_name: "Thi\xE9baut"
     organes:
-    - abg: "D\xE9veloppement durable"
-      abv: CION-DVP
-      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
+    - abg: Affaires sociales
+      abv: CION-SOC
+      name: Commission des affaires sociales
     ref: PA722336
   PA722358:
     circonscription_code: '6910'
@@ -3718,10 +3720,9 @@ members:
     group_name: "Socialistes et apparent\xE9s"
     last_name: Leseul
     organes:
-    - abg: Finances
-      abv: CION_FIN
-      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
-        le budg\xE9taire"
+    - abg: "D\xE9veloppement durable"
+      abv: CION-DVP
+      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA774958
   PA774960:
     circonscription_code: '9409'
@@ -4247,10 +4248,9 @@ members:
     group_name: Rassemblement National
     last_name: Baubry
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: "Affaires \xE9trang\xE8res"
+      abv: CION_AFETR
+      name: "Commission des affaires \xE9trang\xE8res"
     ref: PA793374
   PA793382:
     circonscription_code: '1316'
@@ -4320,10 +4320,9 @@ members:
     group_name: Rassemblement National
     last_name: Allisio
     organes:
-    - abg: Finances
-      abv: CION_FIN
-      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
-        le budg\xE9taire"
+    - abg: "Affaires \xE9trang\xE8res"
+      abv: CION_AFETR
+      name: "Commission des affaires \xE9trang\xE8res"
     ref: PA793432
   PA793444:
     circonscription_code: '1304'
@@ -4686,10 +4685,9 @@ members:
     group_name: "Les D\xE9mocrates"
     last_name: Croizier
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: "Affaires culturelles et \xE9ducation"
+      abv: CION-CEDU
+      name: "Commission des affaires culturelles et de l'\xE9ducation"
     ref: PA793716
   PA793736:
     circonscription_code: '3101'
@@ -4906,9 +4904,9 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: "Carri\xE8re"
     organes:
-    - abg: "Affaires \xE9conomiques"
-      abv: CION-ECO
-      name: "Commission des affaires \xE9conomiques"
+    - abg: "D\xE9veloppement durable"
+      abv: CION-DVP
+      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA793912
   PA793928:
     circonscription_code: '3311'
@@ -4937,7 +4935,7 @@ members:
     country: France
     departement_name: Gironde
     departement_num: '33'
-    email: alexandra.martin.2@assemblee-nationale.fr
+    email: alexandra.martin.gironde@assemblee-nationale.fr
     first_name: Alexandra
     group_abv: EPR
     group_name: "Ensemble pour la R\xE9publique"
@@ -5106,9 +5104,9 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Hignet
     organes:
-    - abg: "D\xE9veloppement durable"
-      abv: CION-DVP
-      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
+    - abg: "Affaires \xE9conomiques"
+      abv: CION-ECO
+      name: "Commission des affaires \xE9conomiques"
     ref: PA794082
   PA794094:
     circonscription_code: '3508'
@@ -5143,9 +5141,10 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Taurinya
     organes:
-    - abg: "D\xE9fense"
-      abv: CION_DEF
-      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA794106
   PA794114:
     circonscription_code: '4203'
@@ -5180,10 +5179,9 @@ members:
     group_name: "Droite R\xE9publicaine"
     last_name: Vermorel-Marques
     organes:
-    - abg: Finances
-      abv: CION_FIN
-      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
-        le budg\xE9taire"
+    - abg: "D\xE9veloppement durable"
+      abv: CION-DVP
+      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA794118
   PA794130:
     circonscription_code: '4402'
@@ -5236,9 +5234,9 @@ members:
     group_name: "\xC9cologiste et Social"
     last_name: Laernoes
     organes:
-    - abg: "D\xE9veloppement durable"
-      abv: CION-DVP
-      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
+    - abg: "Affaires \xE9conomiques"
+      abv: CION-ECO
+      name: "Commission des affaires \xE9conomiques"
     ref: PA794146
   PA794154:
     circonscription_code: '4406'
@@ -5345,9 +5343,9 @@ members:
     group_name: "Horizons & Ind\xE9pendants"
     last_name: Gernigon
     organes:
-    - abg: Affaires sociales
-      abv: CION-SOC
-      name: Commission des affaires sociales
+    - abg: "D\xE9veloppement durable"
+      abv: CION-DVP
+      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA794234
   PA794262:
     circonscription_code: '4907'
@@ -5582,9 +5580,10 @@ members:
     group_name: "Socialistes et apparent\xE9s"
     last_name: Vicot
     organes:
-    - abg: "Affaires \xE9conomiques"
-      abv: CION-ECO
-      name: "Commission des affaires \xE9conomiques"
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA794494
   PA794502:
     circonscription_code: '5912'
@@ -5727,9 +5726,9 @@ members:
     group_name: Rassemblement National
     last_name: Loubet
     organes:
-    - abg: "D\xE9fense"
-      abv: CION_DEF
-      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
+    - abg: "Affaires \xE9conomiques"
+      abv: CION-ECO
+      name: "Commission des affaires \xE9conomiques"
     ref: PA794590
   PA794598:
     circonscription_code: '5708'
@@ -5836,10 +5835,9 @@ members:
     group_name: "Les D\xE9mocrates"
     last_name: Lingemann
     organes:
-    - abg: Finances
-      abv: CION_FIN
-      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
-        le budg\xE9taire"
+    - abg: "Affaires culturelles et \xE9ducation"
+      abv: CION-CEDU
+      name: "Commission des affaires culturelles et de l'\xE9ducation"
     ref: PA794702
   PA794710:
     circonscription_code: '6305'
@@ -6087,7 +6085,7 @@ members:
     departement_name: "Pyr\xE9n\xE9es-Atlantiques"
     departement_num: '64'
     email: inaki.echaniz@assemblee-nationale.fr
-    first_name: Inaki
+    first_name: "I\xF1aki"
     group_abv: SOC
     group_name: "Socialistes et apparent\xE9s"
     last_name: Echaniz
@@ -6609,24 +6607,6 @@ members:
       abv: CION-ECO
       name: "Commission des affaires \xE9conomiques"
     ref: PA795270
-  PA795278:
-    circonscription_code: '8502'
-    circonscription_name: "2\xE8me circonscription de la Vend\xE9e"
-    circonscription_num: '02'
-    civ: Mme
-    country: France
-    departement_name: "Vend\xE9e"
-    departement_num: '85'
-    email: beatrice.bellamy@assemblee-nationale.fr
-    first_name: "B\xE9atrice"
-    group_abv: HOR
-    group_name: "Horizons & Ind\xE9pendants"
-    last_name: Bellamy
-    organes:
-    - abg: "Affaires culturelles et \xE9ducation"
-      abv: CION-CEDU
-      name: "Commission des affaires culturelles et de l'\xE9ducation"
-    ref: PA795278
   PA795298:
     circonscription_code: '9312'
     circonscription_name: "12\xE8me circonscription de Seine-Saint-Denis"
@@ -6641,10 +6621,10 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Legavre
     organes:
-    - abg: Finances
-      abv: CION_FIN
-      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
-        le budg\xE9taire"
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA795298
   PA795310:
     circonscription_code: '9402'
@@ -6788,9 +6768,9 @@ members:
     group_name: "Ensemble pour la R\xE9publique"
     last_name: Lalanne
     organes:
-    - abg: "D\xE9veloppement durable"
-      abv: CION-DVP
-      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
+    - abg: "Affaires culturelles et \xE9ducation"
+      abv: CION-CEDU
+      name: "Commission des affaires culturelles et de l'\xE9ducation"
     ref: PA795390
   PA795402:
     circonscription_code: 09905
@@ -6900,9 +6880,9 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Soudais
     organes:
-    - abg: "Affaires \xE9conomiques"
-      abv: CION-ECO
-      name: "Commission des affaires \xE9conomiques"
+    - abg: "D\xE9veloppement durable"
+      abv: CION-DVP
+      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA795466
   PA795482:
     circonscription_code: '8703'
@@ -6918,9 +6898,9 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Meunier
     organes:
-    - abg: "D\xE9veloppement durable"
-      abv: CION-DVP
-      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
+    - abg: "Affaires \xE9conomiques"
+      abv: CION-ECO
+      name: "Commission des affaires \xE9conomiques"
     ref: PA795482
   PA795516:
     circonscription_code: '7710'
@@ -7173,10 +7153,10 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: "L\xE9aument"
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: Finances
+      abv: CION_FIN
+      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
+        le budg\xE9taire"
     ref: PA795746
   PA795762:
     circonscription_code: '97104'
@@ -7484,9 +7464,10 @@ members:
     group_name: Rassemblement National
     last_name: Rambaud
     organes:
-    - abg: "Affaires \xE9trang\xE8res"
-      abv: CION_AFETR
-      name: "Commission des affaires \xE9trang\xE8res"
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA795966
   PA795974:
     circonscription_code: '8304'
@@ -8015,9 +7996,10 @@ members:
     group_name: "Ensemble pour la R\xE9publique"
     last_name: "Fr\xE9bault"
     organes:
-    - abg: "D\xE9fense"
-      abv: CION_DEF
-      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA840235
   PA840657:
     circonscription_code: '0402'
@@ -8071,9 +8053,9 @@ members:
     group_name: "Socialistes et apparent\xE9s"
     last_name: Rossi
     organes:
-    - abg: "D\xE9veloppement durable"
-      abv: CION-DVP
-      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
+    - abg: "Affaires \xE9conomiques"
+      abv: CION-ECO
+      name: "Commission des affaires \xE9conomiques"
     ref: PA840673
   PA840685:
     circonscription_code: '0702'
@@ -8089,9 +8071,9 @@ members:
     group_name: "Union des droites pour la R\xE9publique"
     last_name: "Tr\xE9buchet"
     organes:
-    - abg: "Affaires \xE9trang\xE8res"
-      abv: CION_AFETR
-      name: "Commission des affaires \xE9trang\xE8res"
+    - abg: "Affaires culturelles et \xE9ducation"
+      abv: CION-CEDU
+      name: "Commission des affaires culturelles et de l'\xE9ducation"
     ref: PA840685
   PA840701:
     circonscription_code: '0603'
@@ -8180,10 +8162,9 @@ members:
     group_name: "Socialistes et apparent\xE9s"
     last_name: Lhardit
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: "Affaires \xE9conomiques"
+      abv: CION-ECO
+      name: "Commission des affaires \xE9conomiques"
     ref: PA840765
   PA840773:
     circonscription_code: '1306'
@@ -8528,9 +8509,9 @@ members:
     group_name: "Union des droites pour la R\xE9publique"
     last_name: Lenoir
     organes:
-    - abg: "Affaires culturelles et \xE9ducation"
-      abv: CION-CEDU
-      name: "Commission des affaires culturelles et de l'\xE9ducation"
+    - abg: "Affaires \xE9trang\xE8res"
+      abv: CION_AFETR
+      name: "Commission des affaires \xE9trang\xE8res"
     ref: PA840983
   PA840997:
     circonscription_code: '1702'
@@ -8619,9 +8600,10 @@ members:
     group_name: Rassemblement National
     last_name: Dellong Meng
     organes:
-    - abg: Affaires sociales
-      abv: CION-SOC
-      name: Commission des affaires sociales
+    - abg: Finances
+      abv: CION_FIN
+      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
+        le budg\xE9taire"
     ref: PA841059
   PA841067:
     circonscription_code: '3005'
@@ -8947,9 +8929,9 @@ members:
     group_name: "Socialistes et apparent\xE9s"
     last_name: Roussel
     organes:
-    - abg: "Affaires \xE9conomiques"
-      abv: CION-ECO
-      name: "Commission des affaires \xE9conomiques"
+    - abg: "D\xE9veloppement durable"
+      abv: CION-DVP
+      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA841327
   PA841339:
     circonscription_code: '4409'
@@ -9056,9 +9038,10 @@ members:
     group_name: "Socialistes et apparent\xE9s"
     last_name: Pantel
     organes:
-    - abg: "D\xE9veloppement durable"
-      abv: CION-DVP
-      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
+    - abg: Finances
+      abv: CION_FIN
+      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
+        le budg\xE9taire"
     ref: PA841381
   PA841395:
     circonscription_code: '5103'
@@ -9256,9 +9239,9 @@ members:
     group_name: "\xC9cologiste et Social"
     last_name: Bonnet
     organes:
-    - abg: "Affaires \xE9conomiques"
-      abv: CION-ECO
-      name: "Commission des affaires \xE9conomiques"
+    - abg: "D\xE9veloppement durable"
+      abv: CION-DVP
+      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA841507
   PA841515:
     circonscription_code: '5901'
@@ -9621,10 +9604,9 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Lahmar
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: "D\xE9fense"
+      abv: CION_DEF
+      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
     ref: PA841729
   PA841737:
     circonscription_code: '6908'
@@ -9713,10 +9695,9 @@ members:
     group_name: "Ensemble pour la R\xE9publique"
     last_name: Carteron
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: "D\xE9veloppement durable"
+      abv: CION-DVP
+      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA841801
   PA841813:
     circonscription_code: '7601'
@@ -9991,6 +9972,21 @@ members:
       abv: CION_DEF
       name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
     ref: PA841981
+  PA841993:
+    circonscription_code: '8502'
+    circonscription_name: "2\xE8me circonscription de la Vend\xE9e"
+    circonscription_num: '02'
+    civ: M.
+    country: France
+    departement_name: "Vend\xE9e"
+    departement_num: '85'
+    email: ''
+    first_name: Dominique
+    group_abv: NI
+    group_name: Non inscrit
+    last_name: Paillat
+    organes: []
+    ref: PA841993
   PA842001:
     circonscription_code: '9002'
     circonscription_name: "2\xE8me circonscription du Territoire de Belfort"
@@ -10078,9 +10074,9 @@ members:
     group_name: "\xC9cologiste et Social"
     last_name: Ozenne
     organes:
-    - abg: "Affaires \xE9trang\xE8res"
-      abv: CION_AFETR
-      name: "Commission des affaires \xE9trang\xE8res"
+    - abg: "D\xE9veloppement durable"
+      abv: CION-DVP
+      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA842045
   PA842073:
     circonscription_code: '8802'
@@ -10169,9 +10165,10 @@ members:
     group_name: "Droite R\xE9publicaine"
     last_name: Tryzna
     organes:
-    - abg: "D\xE9veloppement durable"
-      abv: CION-DVP
-      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
+    - abg: Finances
+      abv: CION_FIN
+      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
+        le budg\xE9taire"
     ref: PA842121
   PA842125:
     circonscription_code: '9202'
@@ -10542,4 +10539,4 @@ members:
     ref: PA942
 metadata:
   count: 577
-  last_updated: '2026-05-01T04:00:33.819261'
+  last_updated: '2026-06-01T04:59:19.824013'
