@@ -1624,24 +1624,6 @@ members:
       name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
         le budg\xE9taire"
     ref: PA719138
-  PA719218:
-    circonscription_code: '2202'
-    circonscription_name: "2\xE8me circonscription des C\xF4tes-d'Armor"
-    circonscription_num: '02'
-    civ: M.
-    country: France
-    departement_name: "C\xF4tes-d'Armor"
-    departement_num: '22'
-    email: herve.berville@assemblee-nationale.fr
-    first_name: "Herv\xE9"
-    group_abv: EPR
-    group_name: "Ensemble pour la R\xE9publique"
-    last_name: Berville
-    organes:
-    - abg: "Affaires \xE9trang\xE8res"
-      abv: CION_AFETR
-      name: "Commission des affaires \xE9trang\xE8res"
-    ref: PA719218
   PA719272:
     circonscription_code: '1902'
     circonscription_name: "2\xE8me circonscription de la Corr\xE8ze"
@@ -4395,6 +4377,24 @@ members:
       abv: CION-DVP
       name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA793520
+  PA793528:
+    circonscription_code: '2202'
+    circonscription_name: "2\xE8me circonscription des C\xF4tes-d'Armor"
+    circonscription_num: '02'
+    civ: Mme
+    country: France
+    departement_name: "C\xF4tes-d'Armor"
+    departement_num: '22'
+    email: chantal.bouloux@assemblee-nationale.fr
+    first_name: Chantal
+    group_abv: EPR
+    group_name: "Ensemble pour la R\xE9publique"
+    last_name: Bouloux
+    organes:
+    - abg: Affaires sociales
+      abv: CION-SOC
+      name: Commission des affaires sociales
+    ref: PA793528
   PA793532:
     circonscription_code: '2204'
     circonscription_name: "4\xE8me circonscription des C\xF4tes-d'Armor"
@@ -4903,10 +4903,9 @@ members:
     group_name: "Ensemble pour la R\xE9publique"
     last_name: Bernadeau
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: "Affaires \xE9trang\xE8res"
+      abv: CION_AFETR
+      name: "Commission des affaires \xE9trang\xE8res"
     ref: PA793924
   PA793928:
     circonscription_code: '3311'
@@ -6315,24 +6314,6 @@ members:
       name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
         \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA795046
-  PA795050:
-    circonscription_code: '7504'
-    circonscription_name: "4\xE8me circonscription de Paris"
-    circonscription_num: '04'
-    civ: Mme
-    country: France
-    departement_name: Paris
-    departement_num: '75'
-    email: astrid.panosyan-bouvet@assemblee-nationale.fr
-    first_name: Astrid
-    group_abv: EPR
-    group_name: "Ensemble pour la R\xE9publique"
-    last_name: Panosyan-Bouvet
-    organes:
-    - abg: "Affaires \xE9trang\xE8res"
-      abv: CION_AFETR
-      name: "Commission des affaires \xE9trang\xE8res"
-    ref: PA795050
   PA795076:
     circonscription_code: '7509'
     circonscription_name: "9\xE8me circonscription de Paris"
@@ -9554,6 +9535,25 @@ members:
       name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
         \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA841701
+  PA841709:
+    circonscription_code: '7504'
+    circonscription_name: "4\xE8me circonscription de Paris"
+    circonscription_num: '04'
+    civ: Mme
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: emmanuelle.hoffman@assemblee-nationale.fr
+    first_name: Emmanuelle
+    group_abv: EPR
+    group_name: "Ensemble pour la R\xE9publique"
+    last_name: Hoffman
+    organes:
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
+    ref: PA841709
   PA841713:
     circonscription_code: '6902'
     circonscription_name: "2\xE8me circonscription du Rh\xF4ne"
@@ -10542,4 +10542,4 @@ members:
     ref: PA942
 metadata:
   count: 577
-  last_updated: '2026-08-01T03:34:18.649225'
+  last_updated: '2026-09-01T04:41:02.753584'
