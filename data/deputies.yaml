@@ -305,9 +305,9 @@ members:
     group_name: "\xC9cologiste et Social"
     last_name: Voynet
     organes:
-    - abg: "Affaires \xE9trang\xE8res"
-      abv: CION_AFETR
-      name: "Commission des affaires \xE9trang\xE8res"
+    - abg: "Affaires culturelles et \xE9ducation"
+      abv: CION-CEDU
+      name: "Commission des affaires culturelles et de l'\xE9ducation"
     ref: PA2940
   PA2952:
     circonscription_code: 0803
@@ -780,10 +780,9 @@ members:
     group_name: "Horizons & Ind\xE9pendants"
     last_name: Marcangeli
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: "D\xE9fense"
+      abv: CION_DEF
+      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
     ref: PA605782
   PA606545:
     circonscription_code: '3401'
@@ -854,10 +853,9 @@ members:
     group_name: "Droite R\xE9publicaine"
     last_name: Vigier
     organes:
-    - abg: Finances
-      abv: CION_FIN
-      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
-        le budg\xE9taire"
+    - abg: "Affaires \xE9conomiques"
+      abv: CION-ECO
+      name: "Commission des affaires \xE9conomiques"
     ref: PA607090
   PA607193:
     circonscription_code: '4410'
@@ -1058,10 +1056,9 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Nilor
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: Affaires sociales
+      abv: CION-SOC
+      name: Commission des affaires sociales
     ref: PA610654
   PA610968:
     circonscription_code: '7505'
@@ -1150,9 +1147,9 @@ members:
     group_name: "Socialistes et apparent\xE9s"
     last_name: Aviragnet
     organes:
-    - abg: Affaires sociales
-      abv: CION-SOC
-      name: Commission des affaires sociales
+    - abg: "Affaires \xE9conomiques"
+      abv: CION-ECO
+      name: "Commission des affaires \xE9conomiques"
     ref: PA642764
   PA642847:
     circonscription_code: '5404'
@@ -1518,21 +1515,6 @@ members:
       abv: CION_AFETR
       name: "Commission des affaires \xE9trang\xE8res"
     ref: PA718850
-  PA718884:
-    circonscription_code: '1002'
-    circonscription_name: "2\xE8me circonscription de l'Aube"
-    circonscription_num: '02'
-    civ: Mme
-    country: France
-    departement_name: Aube
-    departement_num: '10'
-    email: Valerie.Bazin-Malgras@assemblee-nationale.fr
-    first_name: "Val\xE9rie"
-    group_abv: DR
-    group_name: "Droite R\xE9publicaine"
-    last_name: Bazin-Malgras
-    organes: []
-    ref: PA718884
   PA719024:
     circonscription_code: '1404'
     circonscription_name: "4\xE8me circonscription du Calvados"
@@ -1569,21 +1551,6 @@ members:
       abv: CION_AFETR
       name: "Commission des affaires \xE9trang\xE8res"
     ref: PA719032
-  PA719052:
-    circonscription_code: '1803'
-    circonscription_name: "3\xE8me circonscription du Cher"
-    circonscription_num: '03'
-    civ: M.
-    country: France
-    departement_name: Cher
-    departement_num: '18'
-    email: Loic.Kervran@assemblee-nationale.fr
-    first_name: "Lo\xEFc"
-    group_abv: HOR
-    group_name: "Horizons & Ind\xE9pendants"
-    last_name: Kervran
-    organes: []
-    ref: PA719052
   PA719080:
     circonscription_code: '1602'
     circonscription_name: "2\xE8me circonscription de la Charente"
@@ -1780,9 +1747,9 @@ members:
     group_name: Rassemblement National
     last_name: Meizonnet
     organes:
-    - abg: "D\xE9fense"
-      abv: CION_DEF
-      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
+    - abg: "Affaires \xE9trang\xE8res"
+      abv: CION_AFETR
+      name: "Commission des affaires \xE9trang\xE8res"
     ref: PA719436
   PA719472:
     circonscription_code: '3201'
@@ -3242,10 +3209,10 @@ members:
     group_name: "Ensemble pour la R\xE9publique"
     last_name: Braun-Pivet
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: Finances
+      abv: CION_FIN
+      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
+        le budg\xE9taire"
     ref: PA721908
   PA721916:
     circonscription_code: '7806'
@@ -3298,9 +3265,10 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Obono
     organes:
-    - abg: Affaires sociales
-      abv: CION-SOC
-      name: Commission des affaires sociales
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA721960
   PA721984:
     circonscription_code: '8501'
@@ -3463,9 +3431,9 @@ members:
     group_name: "Ensemble pour la R\xE9publique"
     last_name: Attal
     organes:
-    - abg: Affaires sociales
-      abv: CION-SOC
-      name: Commission des affaires sociales
+    - abg: "Affaires culturelles et \xE9ducation"
+      abv: CION-CEDU
+      name: "Commission des affaires culturelles et de l'\xE9ducation"
     ref: PA722190
   PA722252:
     circonscription_code: '9104'
@@ -4244,9 +4212,9 @@ members:
     group_name: Rassemblement National
     last_name: "Tach\xE9"
     organes:
-    - abg: Affaires sociales
-      abv: CION-SOC
-      name: Commission des affaires sociales
+    - abg: "D\xE9fense"
+      abv: CION_DEF
+      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
     ref: PA793382
   PA793394:
     circonscription_code: '1402'
@@ -4464,21 +4432,6 @@ members:
       abv: CION-SOC
       name: Commission des affaires sociales
     ref: PA793556
-  PA793572:
-    circonscription_code: '1705'
-    circonscription_name: "5\xE8me circonscription de la Charente-Maritime"
-    circonscription_num: '05'
-    civ: M.
-    country: France
-    departement_name: Charente-Maritime
-    departement_num: '17'
-    email: christophe.plassard@assemblee-nationale.fr
-    first_name: Christophe
-    group_abv: HOR
-    group_name: "Horizons & Ind\xE9pendants"
-    last_name: Plassard
-    organes: []
-    ref: PA793572
   PA793592:
     circonscription_code: '2504'
     circonscription_name: "4\xE8me circonscription du Doubs"
@@ -4749,10 +4702,9 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Bex
     organes:
-    - abg: Finances
-      abv: CION_FIN
-      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
-        le budg\xE9taire"
+    - abg: "D\xE9fense"
+      abv: CION_DEF
+      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
     ref: PA793772
   PA793780:
     circonscription_code: '3109'
@@ -4919,21 +4871,6 @@ members:
       abv: CION_AFETR
       name: "Commission des affaires \xE9trang\xE8res"
     ref: PA793924
-  PA793928:
-    circonscription_code: '3311'
-    circonscription_name: "11\xE8me circonscription de la Gironde"
-    circonscription_num: '11'
-    civ: Mme
-    country: France
-    departement_name: Gironde
-    departement_num: '33'
-    email: edwige.diaz@assemblee-nationale.fr
-    first_name: Edwige
-    group_abv: RN
-    group_name: Rassemblement National
-    last_name: Diaz
-    organes: []
-    ref: PA793928
   PA793944:
     circonscription_code: '3301'
     circonscription_name: "1\xE8re circonscription de la Gironde"
@@ -5038,9 +4975,9 @@ members:
     group_name: "\xC9cologiste et Social"
     last_name: Iordanoff
     organes:
-    - abg: "Affaires culturelles et \xE9ducation"
-      abv: CION-CEDU
-      name: "Commission des affaires culturelles et de l'\xE9ducation"
+    - abg: "Affaires \xE9trang\xE8res"
+      abv: CION_AFETR
+      name: "Commission des affaires \xE9trang\xE8res"
     ref: PA794022
   PA794030:
     circonscription_code: '3806'
@@ -5568,9 +5505,10 @@ members:
     group_name: "Ensemble pour la R\xE9publique"
     last_name: Spillebout
     organes:
-    - abg: "Affaires culturelles et \xE9ducation"
-      abv: CION-CEDU
-      name: "Commission des affaires culturelles et de l'\xE9ducation"
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA794486
   PA794494:
     circonscription_code: '5911'
@@ -5988,9 +5926,9 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Fernandes
     organes:
-    - abg: Affaires sociales
-      abv: CION-SOC
-      name: Commission des affaires sociales
+    - abg: "D\xE9fense"
+      abv: CION_DEF
+      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
     ref: PA794786
   PA794798:
     circonscription_code: '6704'
@@ -6156,21 +6094,24 @@ members:
       abv: CION-DVP
       name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA794894
-  PA794906:
+  PA794910:
     circonscription_code: '6906'
     circonscription_name: "6\xE8me circonscription du Rh\xF4ne"
     circonscription_num: '06'
-    civ: M.
+    civ: Mme
     country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
-    email: gabriel.amard@assemblee-nationale.fr
-    first_name: Gabriel
-    group_abv: LFI-NFP
-    group_name: La France insoumise - Nouveau Front Populaire
-    last_name: Amard
-    organes: []
-    ref: PA794906
+    email: melouka.hadjmimoune@assemblee-nationale.fr
+    first_name: Melouka
+    group_abv: SOC
+    group_name: "Socialistes et apparent\xE9s"
+    last_name: Hadj-Mimoune
+    organes:
+    - abg: Affaires sociales
+      abv: CION-SOC
+      name: Commission des affaires sociales
+    ref: PA794910
   PA794938:
     circonscription_code: '6914'
     circonscription_name: "14\xE8me circonscription du Rh\xF4ne"
@@ -6644,9 +6585,9 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Boyard
     organes:
-    - abg: "D\xE9fense"
-      abv: CION_DEF
-      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
+    - abg: Affaires sociales
+      abv: CION-SOC
+      name: Commission des affaires sociales
     ref: PA795318
   PA795326:
     circonscription_code: 09901
@@ -6809,9 +6750,10 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Maudet
     organes:
-    - abg: "D\xE9fense"
-      abv: CION_DEF
-      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
+    - abg: Finances
+      abv: CION_FIN
+      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
+        le budg\xE9taire"
     ref: PA795422
   PA795430:
     circonscription_code: '8702'
@@ -6865,10 +6807,9 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Soudais
     organes:
-    - abg: Finances
-      abv: CION_FIN
-      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
-        le budg\xE9taire"
+    - abg: "D\xE9veloppement durable"
+      abv: CION-DVP
+      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA795466
   PA795482:
     circonscription_code: '8703'
@@ -7140,9 +7081,10 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: "L\xE9aument"
     organes:
-    - abg: "D\xE9veloppement durable"
-      abv: CION-DVP
-      name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
+    - abg: Finances
+      abv: CION_FIN
+      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
+        le budg\xE9taire"
     ref: PA795746
   PA795762:
     circonscription_code: '97104'
@@ -7432,10 +7374,9 @@ members:
     group_name: "Ensemble pour la R\xE9publique"
     last_name: Missoffe
     organes:
-    - abg: Finances
-      abv: CION_FIN
-      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
-        le budg\xE9taire"
+    - abg: Affaires sociales
+      abv: CION-SOC
+      name: Commission des affaires sociales
     ref: PA795962
   PA795966:
     circonscription_code: '8303'
@@ -7507,10 +7448,10 @@ members:
     group_name: "Gauche D\xE9mocrate et R\xE9publicaine"
     last_name: K/Bidi
     organes:
-    - abg: Finances
-      abv: CION_FIN
-      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
-        le budg\xE9taire"
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
     ref: PA795998
   PA796010:
     circonscription_code: '97406'
@@ -7566,21 +7507,6 @@ members:
       abv: CION-DVP
       name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA796026
-  PA796034:
-    circonscription_code: '8306'
-    circonscription_name: "6\xE8me circonscription du Var"
-    circonscription_num: '06'
-    civ: M.
-    country: France
-    departement_name: Var
-    departement_num: '83'
-    email: frank.giletti@assemblee-nationale.fr
-    first_name: Frank
-    group_abv: RN
-    group_name: Rassemblement National
-    last_name: Giletti
-    organes: []
-    ref: PA796034
   PA796042:
     circonscription_code: '8307'
     circonscription_name: "7\xE8me circonscription du Var"
@@ -7965,6 +7891,24 @@ members:
       abv: CION-CEDU
       name: "Commission des affaires culturelles et de l'\xE9ducation"
     ref: PA840175
+  PA840195:
+    circonscription_code: '8306'
+    circonscription_name: "6\xE8me circonscription du Var"
+    circonscription_num: '06'
+    civ: Mme
+    country: France
+    departement_name: Var
+    departement_num: '83'
+    email: muriel.fiol@assemblee-nationale.fr
+    first_name: Muriel
+    group_abv: RN
+    group_name: Rassemblement National
+    last_name: Fiol
+    organes:
+    - abg: Affaires sociales
+      abv: CION-SOC
+      name: Commission des affaires sociales
+    ref: PA840195
   PA840235:
     circonscription_code: '98701'
     circonscription_name: "1\xE8re circonscription de Polyn\xE9sie-Fran\xE7aise"
@@ -8296,6 +8240,25 @@ members:
       abv: CION-DVP
       name: "Commission du d\xE9veloppement durable et de l'am\xE9nagement du territoire"
     ref: PA840837
+  PA840849:
+    circonscription_code: '1803'
+    circonscription_name: "3\xE8me circonscription du Cher"
+    circonscription_num: '03'
+    civ: M.
+    country: France
+    departement_name: Cher
+    departement_num: '18'
+    email: emmanuel.riotte@assemblee-nationale.fr
+    first_name: Emmanuel
+    group_abv: HOR
+    group_name: "Horizons & Ind\xE9pendants"
+    last_name: Riotte
+    organes:
+    - abg: Lois
+      abv: CION_LOIS
+      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
+        \ g\xE9n\xE9rale de la R\xE9publique"
+    ref: PA840849
   PA840857:
     circonscription_code: '2401'
     circonscription_name: "1\xE8re circonscription de la Dordogne"
@@ -8473,9 +8436,10 @@ members:
     group_name: "Droite R\xE9publicaine"
     last_name: Le Fur
     organes:
-    - abg: "Affaires \xE9conomiques"
-      abv: CION-ECO
-      name: "Commission des affaires \xE9conomiques"
+    - abg: Finances
+      abv: CION_FIN
+      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
+        le budg\xE9taire"
     ref: PA840979
   PA840983:
     circonscription_code: '2301'
@@ -8586,7 +8550,7 @@ members:
       abv: CION-ECO
       name: "Commission des affaires \xE9conomiques"
     ref: PA841067
-  PA841075:
+  PA841079:
     circonscription_code: '3006'
     circonscription_name: "6\xE8me circonscription du Gard"
     circonscription_num: '06'
@@ -8594,13 +8558,17 @@ members:
     country: France
     departement_name: Gard
     departement_num: '30'
-    email: sylvie.josserand@assemblee-nationale.fr
-    first_name: Sylvie
+    email: laurence.gardet@assemblee-nationale.fr
+    first_name: Laurence
     group_abv: RN
     group_name: Rassemblement National
-    last_name: Josserand
-    organes: []
-    ref: PA841075
+    last_name: Gardet
+    organes:
+    - abg: Finances
+      abv: CION_FIN
+      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
+        le budg\xE9taire"
+    ref: PA841079
   PA841091:
     circonscription_code: '3106'
     circonscription_name: "6\xE8me circonscription de la Haute-Garonne"
@@ -8615,9 +8583,9 @@ members:
     group_name: "Socialistes et apparent\xE9s"
     last_name: Simion
     organes:
-    - abg: Affaires sociales
-      abv: CION-SOC
-      name: Commission des affaires sociales
+    - abg: "D\xE9fense"
+      abv: CION_DEF
+      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
     ref: PA841091
   PA841107:
     circonscription_code: '3110'
@@ -8638,21 +8606,24 @@ members:
       name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
         le budg\xE9taire"
     ref: PA841107
-  PA841131:
+  PA841135:
     circonscription_code: '3404'
     circonscription_name: "4\xE8me circonscription de l'H\xE9rault"
     circonscription_num: '04'
-    civ: Mme
+    civ: M.
     country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
-    email: manon.bouquin@assemblee-nationale.fr
-    first_name: Manon
+    email: benoit.gilhet@assemblee-nationale.fr
+    first_name: Benoit
     group_abv: RN
     group_name: Rassemblement National
-    last_name: Bouquin
-    organes: []
-    ref: PA841131
+    last_name: Gilhet
+    organes:
+    - abg: "D\xE9fense"
+      abv: CION_DEF
+      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
+    ref: PA841135
   PA841139:
     circonscription_code: '3406'
     circonscription_name: "6\xE8me circonscription de l'H\xE9rault"
@@ -8681,8 +8652,8 @@ members:
     departement_num: '36'
     email: alix.fruchon@assemblee-nationale.fr
     first_name: Alix
-    group_abv: DR
-    group_name: "Droite R\xE9publicaine"
+    group_abv: LIOT
+    group_name: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     last_name: Fruchon
     organes:
     - abg: "Affaires \xE9trang\xE8res"
@@ -8813,9 +8784,9 @@ members:
     group_name: "Socialistes et apparent\xE9s"
     last_name: Saint-Pasteur
     organes:
-    - abg: "D\xE9fense"
-      abv: CION_DEF
-      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
+    - abg: Affaires sociales
+      abv: CION-SOC
+      name: Commission des affaires sociales
     ref: PA841243
   PA841251:
     circonscription_code: '3312'
@@ -8850,9 +8821,9 @@ members:
     group_name: "Socialistes et apparent\xE9s"
     last_name: Courbon
     organes:
-    - abg: "Affaires \xE9conomiques"
-      abv: CION-ECO
-      name: "Commission des affaires \xE9conomiques"
+    - abg: Affaires sociales
+      abv: CION-SOC
+      name: Commission des affaires sociales
     ref: PA841295
   PA841315:
     circonscription_code: '4401'
@@ -9742,9 +9713,9 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Saint-Martin
     organes:
-    - abg: Affaires sociales
-      abv: CION-SOC
-      name: Commission des affaires sociales
+    - abg: "D\xE9fense"
+      abv: CION_DEF
+      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
     ref: PA841845
   PA841853:
     circonscription_code: '7511'
@@ -9888,9 +9859,9 @@ members:
     group_name: La France insoumise - Nouveau Front Populaire
     last_name: Hamdane
     organes:
-    - abg: "D\xE9fense"
-      abv: CION_DEF
-      name: "Commission de la d\xE9fense nationale et des forces arm\xE9es"
+    - abg: Affaires sociales
+      abv: CION-SOC
+      name: Commission des affaires sociales
     ref: PA841947
   PA841955:
     circonscription_code: '8003'
@@ -10362,10 +10333,10 @@ members:
     group_name: "Gauche D\xE9mocrate et R\xE9publicaine"
     last_name: Maurel
     organes:
-    - abg: Lois
-      abv: CION_LOIS
-      name: "Commission des lois constitutionnelles, de la l\xE9gislation et de l'administration\
-        \ g\xE9n\xE9rale de la R\xE9publique"
+    - abg: Finances
+      abv: CION_FIN
+      name: "Commission des finances, de l'\xE9conomie g\xE9n\xE9rale et du contr\xF4\
+        le budg\xE9taire"
     ref: PA842271
   PA842279:
     circonscription_code: '97602'
@@ -10516,5 +10487,5 @@ members:
         le budg\xE9taire"
     ref: PA942
 metadata:
-  count: 577
-  last_updated: '2026-10-01T05:25:05.626833'
+  count: 574
+  last_updated: '2026-11-01T05:36:47.658862'
